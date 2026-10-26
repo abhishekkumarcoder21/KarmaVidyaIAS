@@ -1,0 +1,141 @@
+{
+  "title": "Prelims Mini Mock: Environment, Ecology & Science",
+  "slug": "prelims-mini-mock-environment-science",
+  "description": "Rigorous practice covering Biodiversity hotspots, Ramsar sites, Space Technology, and Emerging Biotech with negative marking.",
+  "subject": "Environment & Science",
+  "paper": "GS3",
+  "durationMinutes": 15,
+  "totalMarks": 16,
+  "negativeMarking": true,
+  "negativeMarkingValue": 0.66,
+  "difficulty": "Hard",
+  "tags": ["Environment", "Science & Technology", "Prelims 2027", "Mock Test", "Ecology"],
+  "status": "published",
+  "instructions": [
+    "This test contains 8 questions simulating UPSC Civil Services Prelims standards.",
+    "Correct answers receive +2.0 marks; incorrect answers deduct -0.66 marks.",
+    "Manage your time effectively within the 15-minute window."
+  ],
+  "questions": [
+    {
+      "id": "es-1",
+      "questionText": "Consider the following statements regarding 'Ramsar Sites' in India:\n1. India is a signatory to the Ramsar Convention on Wetlands of International Importance.\n2. Chilika Lake and Keoladeo National Park were the first designated Ramsar sites in India.\n3. The Montreux Record is a register of wetland sites where changes in ecological character have occurred, are occurring, or are likely to occur.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "All three statements are correct: India ratified the Ramsar Convention in 1982. Chilika (Odisha) and Keoladeo (Rajasthan) were the first two designated sites in 1981. The Montreux Record is maintained as part of the Ramsar List; currently, Keoladeo National Park and Loktak Lake (Manipur) are in the Montreux Record for India (Chilika was removed in 2002 after successful ecological restoration).",
+      "subject": "Environment and Ecology",
+      "topic": "Wetlands",
+      "marks": 2
+    },
+    {
+      "id": "es-2",
+      "questionText": "Which one of the following is the primary reason why 'Biochemical Oxygen Demand' (BOD) is widely used in environmental testing?",
+      "options": {
+        "a": "Measuring the atmospheric oxygen concentration in tropical rainforest canopies",
+        "b": "Estimating the amount of organic matter pollution in aquatic water bodies",
+        "c": "Determining the heavy metal toxicity levels in groundwater aquifers",
+        "d": "Calculating the rate of photosynthetic carbon sequestration in mangrove swamps"
+      },
+      "correctAnswer": "b",
+      "explanation": "Biochemical Oxygen Demand (BOD) measures the amount of dissolved oxygen consumed by aerobic microorganisms when decomposing organic matter in water over a specified period (typically 5 days at 20°C). High BOD indicates severe organic waste contamination.",
+      "subject": "Environment and Ecology",
+      "topic": "Pollution",
+      "marks": 2
+    },
+    {
+      "id": "es-3",
+      "questionText": "Consider the following pairs of Protected Areas and their characteristic native fauna:\n1. Dachigam National Park — Hangul (Kashmir Stag)\n2. Keibul Lamjao National Park — Sangai (Brow-antlered deer)\n3. Silent Valley National Park — Lion-tailed Macaque\n\nHow many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "All three pairs",
+        "d": "None of the pairs"
+      },
+      "correctAnswer": "c",
+      "explanation": "All three pairs are correctly matched. 1: Dachigam (J&K) is the only viable habitat for the critically endangered Hangul. 2: Keibul Lamjao (Manipur, inside Loktak Lake) is the world's only floating national park, home to the endangered Sangai deer. 3: Silent Valley (Kerala, Western Ghats) harbors a prominent viable population of the Lion-tailed Macaque.",
+      "subject": "Environment and Ecology",
+      "topic": "Protected Areas & Fauna",
+      "marks": 2
+    },
+    {
+      "id": "es-4",
+      "questionText": "With reference to 'CRISPR-Cas9' gene editing technology, what does 'Cas9' fundamentally act as?",
+      "options": {
+        "a": "A guide RNA sequence that binds to the target DNA",
+        "b": "A molecular endonuclease enzyme that cuts DNA strands",
+        "c": "A bacterial plasmid vector used for delivering insulin genes",
+        "d": "A reverse transcriptase enzyme synthesizing cDNA from viral RNA"
+      },
+      "correctAnswer": "b",
+      "explanation": "In the CRISPR-Cas9 system, CRISPR is the RNA guide sequence that navigates to the exact complementary locus in the genomic sequence, whereas Cas9 (CRISPR-associated protein 9) is an endonuclease enzyme that acts as molecular scissors, cutting both strands of the target DNA double helix.",
+      "subject": "Science and Technology",
+      "topic": "Biotechnology",
+      "marks": 2
+    },
+    {
+      "id": "es-5",
+      "questionText": "In the context of space exploration, what is the 'Lagrange Point 1' (L1) where ISRO's Aditya-L1 solar observatory is positioned?",
+      "options": {
+        "a": "A point on the lunar surface directly facing Earth",
+        "b": "A gravitationally balanced equilibrium point between the Sun and Earth",
+        "c": "The point of closest approach of the Earth to the Sun (Perihelion)",
+        "d": "A geostationary orbit location situated 36,000 km directly above the Equator"
+      },
+      "correctAnswer": "b",
+      "explanation": "Lagrange points are positions in space where the gravitational forces of a two-body system (Sun and Earth) produce enhanced regions of attraction and repulsion, allowing a spacecraft to maintain a stable relative position with minimal fuel consumption. L1 is situated ~1.5 million km from Earth toward the Sun, providing uninterrupted view of the Sun without occultation or eclipses.",
+      "subject": "Science and Technology",
+      "topic": "Space Missions",
+      "marks": 2
+    },
+    {
+      "id": "es-6",
+      "questionText": "The term 'Biochar' has gained prominence in climate discourse primarily because:",
+      "options": {
+        "a": "It acts as a high-density synthetic bio-plastic for medical devices.",
+        "b": "It is a charcoal-like substance produced by biomass pyrolysis that enriches soil and sequesters carbon for centuries.",
+        "c": "It is an airborne biological aerosol that seeds rain clouds in arid landscapes.",
+        "d": "It replaces radioactive cobalt isotopes in radiation therapy."
+      },
+      "correctAnswer": "b",
+      "explanation": "Biochar is created through pyrolysis (thermal decomposition of organic biomass in low oxygen environments). Because its carbon structure is highly recalcitrant, it remains stable in soils for hundreds to thousands of years, preventing carbon release while dramatically increasing soil moisture retention and nutrient capacity.",
+      "subject": "Environment and Ecology",
+      "topic": "Climate Mitigation",
+      "marks": 2
+    },
+    {
+      "id": "es-7",
+      "questionText": "Which of the following pollutants are monitored under India's National Air Quality Index (NAQI)?\n1. PM2.5 and PM10\n2. Nitrogen Dioxide (NO2) and Sulphur Dioxide (SO2)\n3. Carbon Monoxide (CO) and Ozone (O3)\n4. Ammonia (NH3) and Lead (Pb)\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 3 only",
+        "c": "2, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "d",
+      "explanation": "The National Air Quality Index (NAQI) launched by the CPCB monitors eight pollutants: PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb. All are included.",
+      "subject": "Environment and Ecology",
+      "topic": "Pollution",
+      "marks": 2
+    },
+    {
+      "id": "es-8",
+      "questionText": "What is the phenomenon of 'Ocean Acidification' caused by?",
+      "options": {
+        "a": "Thermal expansion of ocean water due to melting glaciers",
+        "b": "Absorption of excess atmospheric Carbon Dioxide (CO2) forming carbonic acid",
+        "c": "Depletion of dissolved nitrogen due to agricultural algal blooms",
+        "d": "Submarine volcanic eruptions releasing dissolved silica"
+      },
+      "correctAnswer": "b",
+      "explanation": "As the ocean absorbs roughly 25-30% of anthropogenic CO2 emissions, it reacts with seawater (H2O + CO2 → H2CO3 → H+ + HCO3-), increasing hydrogen ion concentration and lowering oceanic pH. This decreases carbonate ion availability, severely hampering calcifying organisms like corals, mollusks, and pteropods.",
+      "subject": "Environment and Ecology",
+      "topic": "Marine Ecosystems",
+      "marks": 2
+    }
+  ]
+}

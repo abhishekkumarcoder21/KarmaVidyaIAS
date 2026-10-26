@@ -1,0 +1,82 @@
+{
+  "subject": "Indian Polity",
+  "topic": "Constitutional Law, Preamble, and Parliament",
+  "status": "published",
+  "questions": [
+    {
+      "id": "pyq-polity-2023-1",
+      "questionText": "In India, what is the role of the Finance Commission?\n1. It assesses the financial needs of the States and recommends devolution of Central taxes.\n2. It advises the President on financial matters referred to it.\n3. Its recommendations are legally binding on the Union Government.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Statements 1 and 2 are correct under Article 280. Statement 3 is incorrect because the recommendations made by the Finance Commission are purely of an advisory nature and not binding on the Government, though conventions accord high weight to them.",
+      "optionExplanations": {
+        "a": "Correct: Statements 1 and 2 correctly capture the advisory and tax sharing mandate of the Commission.",
+        "b": "Incorrect: Statement 3 is wrong as recommendations are not legally binding.",
+        "c": "Incorrect: Statement 3 is wrong.",
+        "d": "Incorrect: Statement 3 is wrong."
+      },
+      "year": 2023,
+      "examStage": "Prelims",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Bodies",
+      "difficulty": "Medium",
+      "source": "UPSC CSE Prelims 2023 GS Paper 1",
+      "tags": ["Polity", "Finance Commission", "Article 280", "PYQ 2023"],
+      "isVerified": true,
+      "status": "published"
+    },
+    {
+      "id": "pyq-polity-2022-1",
+      "questionText": "Consider the following statements:\n1. A Bill amending the Constitution requires a prior recommendation of the President of India.\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President to give his/her assent.\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for a joint sitting.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement 1 is incorrect: Under Article 368, a Constitution Amendment Bill does NOT require prior recommendation of the President. Statement 2 is correct: Under the 24th Amendment Act of 1971, it was made mandatory for the President to give assent to a Constitution Amendment Bill. Statement 3 is correct: Each house must pass it independently by special majority (majority of total membership and 2/3rd present and voting); joint sitting is not permissible under Article 368.",
+      "optionExplanations": {
+        "a": "Incorrect: Statement 1 is false.",
+        "b": "Correct: Statements 2 and 3 are accurate provisions of Article 368.",
+        "c": "Incorrect: Statement 1 is false.",
+        "d": "Incorrect: Statement 1 is false."
+      },
+      "year": 2022,
+      "examStage": "Prelims",
+      "subject": "Indian Polity",
+      "topic": "Amendment of Constitution",
+      "difficulty": "Medium",
+      "source": "UPSC CSE Prelims 2022 GS Paper 1",
+      "tags": ["Polity", "Article 368", "Presidential Assent", "PYQ 2022"],
+      "isVerified": true,
+      "status": "published"
+    },
+    {
+      "id": "pyq-polity-2021-1",
+      "questionText": "What was the exact constitutional status of India on 26th January, 1950?",
+      "options": {
+        "a": "A Democratic Republic",
+        "b": "A Sovereign Democratic Republic",
+        "c": "A Sovereign Secular Democratic Republic",
+        "d": "A Sovereign Socialist Secular Democratic Republic"
+      },
+      "correctAnswer": "b",
+      "explanation": "On 26th January 1950, when the Constitution was enacted, the Preamble declared India to be a 'Sovereign Democratic Republic'. The words 'Socialist' and 'Secular' (along with 'Integrity') were added later by the 42nd Constitutional Amendment Act of 1976.",
+      "year": 2021,
+      "examStage": "Prelims",
+      "subject": "Indian Polity",
+      "topic": "Preamble",
+      "difficulty": "Easy",
+      "source": "UPSC CSE Prelims 2021 GS Paper 1",
+      "tags": ["Polity", "Preamble", "42nd Amendment", "PYQ 2021"],
+      "isVerified": true,
+      "status": "published"
+    }
+  ]
+}

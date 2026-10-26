@@ -1,0 +1,47 @@
+{
+  "name": "karmavidya-ias",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "test": "jest --passWithNoTests",
+    "validate-content": "tsx scripts/validate-content.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.20",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "fuse.js": "^7.0.0",
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^0.469.0",
+    "next": "^16.4.3",
+    "next-mdx-remote": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "reading-time": "^1.5.0",
+    "rehype-highlight": "^7.0.1",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.17.9",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.0.3",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "ts-jest": "^29.2.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

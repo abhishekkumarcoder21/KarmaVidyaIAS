@@ -1,0 +1,28 @@
+{
+  "subject": "Environment & Ecology",
+  "topic": "Ecosystems and Protected Areas",
+  "status": "published",
+  "questions": [
+    {
+      "id": "pyq-env-2023-1",
+      "questionText": "Consider the following statements:\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperature below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environments with a pH below 3.\n\nHow many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanation": "All three statements are correct: 1. Hyperthermophilic archaea (e.g., Methanopyrus kandleri) survive at 122°C in hydrothermal vents. 2. Psychrophilic bacteria (e.g., Planococcus halocryophilus) remain active at -15°C in permafrost. 3. Acidophilic microbes (e.g., Picrophilus oshimae) thrive at pH 0.7 in solfataric fields.",
+      "year": 2023,
+      "examStage": "Prelims",
+      "subject": "Environment & Ecology",
+      "topic": "Ecology & Extremophiles",
+      "difficulty": "Medium",
+      "source": "UPSC CSE Prelims 2023 GS Paper 1",
+      "tags": ["Environment", "Ecology", "Microorganisms", "PYQ 2023"],
+      "isVerified": true,
+      "status": "published"
+    }
+  ]
+}

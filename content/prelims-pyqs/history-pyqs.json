@@ -1,0 +1,49 @@
+{
+  "subject": "History",
+  "topic": "Ancient, Medieval, and Modern Indian History",
+  "status": "published",
+  "questions": [
+    {
+      "id": "pyq-history-2023-1",
+      "questionText": "In medieval India, the term 'Fanam' referred to:",
+      "options": {
+        "a": "Clothing",
+        "b": "Coins",
+        "c": "Ornaments",
+        "d": "Weapons"
+      },
+      "correctAnswer": "b",
+      "explanation": "'Fanam' (or panam) was a small gold or silver coin used in Southern India and Sri Lanka between the 9th and 19th centuries, particularly under the Cholas, Vijayanagara Empire, and Travancore Kingdom.",
+      "year": 2023,
+      "examStage": "Prelims",
+      "subject": "History",
+      "topic": "Medieval Coinage",
+      "difficulty": "Medium",
+      "source": "UPSC CSE Prelims 2023 GS Paper 1",
+      "tags": ["History", "Medieval India", "Numismatics", "PYQ 2023"],
+      "isVerified": true,
+      "status": "published"
+    },
+    {
+      "id": "pyq-history-2022-1",
+      "questionText": "In the context of Indian history, the Rakhmabai case of 1884 revolved around:\n1. Women's right to gain education\n2. Age of consent\n3. Restitution of conjugal rights\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Rakhmabai Raut was married at the age of 11 to Dadaji Bhikaji. She refused to live with her husband, leading to Dadaji filing a lawsuit for 'restitution of conjugal rights'. Her courageous defense and writings under the pseudonym 'A Hindu Lady' sparked national debates that directly led to the enactment of the Age of Consent Act, 1891.",
+      "year": 2022,
+      "examStage": "Prelims",
+      "subject": "History",
+      "topic": "Modern Social Reform",
+      "difficulty": "Medium",
+      "source": "UPSC CSE Prelims 2022 GS Paper 1",
+      "tags": ["History", "Modern India", "Social Reforms", "PYQ 2022"],
+      "isVerified": true,
+      "status": "published"
+    }
+  ]
+}

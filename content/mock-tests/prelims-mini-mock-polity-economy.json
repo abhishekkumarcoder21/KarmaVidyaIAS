@@ -1,0 +1,143 @@
+{
+  "title": "Prelims Mini Mock: Indian Polity & Economy",
+  "slug": "prelims-mini-mock-polity-economy",
+  "description": "High-yield UPSC standard practice test covering Constitutional doctrines, Money Bills, Fiscal Policy, and Monetary Operations with negative marking.",
+  "subject": "Polity & Economy",
+  "paper": "GS2",
+  "durationMinutes": 15,
+  "totalMarks": 16,
+  "negativeMarking": true,
+  "negativeMarkingValue": 0.66,
+  "difficulty": "Medium",
+  "tags": ["Polity", "Economy", "Prelims 2027", "Mock Test", "UPSC Standards"],
+  "status": "published",
+  "instructions": [
+    "This test contains 8 questions designed to simulate UPSC Civil Services Prelims rigor.",
+    "Each correct answer awards 2.0 marks.",
+    "Each incorrect answer incurs a penalty of 0.66 marks (-1/3rd).",
+    "Unattempted questions receive 0 marks with no penalty.",
+    "Timer runs automatically; submit when finished to see detailed explanations and analytics."
+  ],
+  "questions": [
+    {
+      "id": "pe-1",
+      "questionText": "Consider the following statements regarding the 'Doctrine of Basic Structure' in India:\n1. The term 'Basic Structure' is explicitly defined under Article 368 of the Constitution.\n2. The Supreme Court first propounded this doctrine in the Kesavananda Bharati case (1973).\n3. Judicial review and free and fair elections have been held as components of the basic structure.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement 1 is incorrect: The Constitution does not define 'Basic Structure' anywhere; it is an entirely judicial invention. Statement 2 is correct: A 13-judge bench in Kesavananda Bharati v. State of Kerala (1973) propounded the doctrine by a 7-6 majority. Statement 3 is correct: Both judicial review (Minerva Mills) and free & fair elections (Indira Nehru Gandhi case) are established basic features.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Framework",
+      "marks": 2
+    },
+    {
+      "id": "pe-2",
+      "questionText": "With reference to the 'Money Bill' in the Indian Parliament, which of the following statements is NOT correct?",
+      "options": {
+        "a": "A Money Bill can only be introduced in the Lok Sabha on the prior recommendation of the President.",
+        "b": "The Rajya Sabha cannot reject or amend a Money Bill but can only make recommendations within 14 days.",
+        "c": "The Speaker's decision on whether a Bill is a Money Bill or not is final and cannot be questioned in any court.",
+        "d": "There is no provision for a joint sitting of both Houses in the case of a Money Bill."
+      },
+      "correctAnswer": "c",
+      "explanation": "Option C is NOT correct: In Mohd. Saeed Siddiqui (2014) and later in the Aadhaar judgment (K.S. Puttaswamy, 2018), the Supreme Court clarified that while procedural irregularity cannot be questioned (Art. 122), substantive constitutional non-compliance in certifying a Bill as a Money Bill IS subject to judicial review. Options A, B, and D are standard correct constitutional provisions under Articles 109 and 110.",
+      "subject": "Indian Polity",
+      "topic": "Parliament",
+      "marks": 2
+    },
+    {
+      "id": "pe-3",
+      "questionText": "Which of the following is NOT part of the Statutory Liquidity Ratio (SLR) securities eligible for commercial banks in India?",
+      "options": {
+        "a": "Cash in hand and excess balances held with RBI",
+        "b": "Gold valued at current market price",
+        "c": "Dated Government of India securities and Treasury Bills",
+        "d": "Shares and debentures of blue-chip corporate entities"
+      },
+      "correctAnswer": "d",
+      "explanation": "Corporate shares and debentures carry private credit risk and are not sovereign instruments; hence they are ineligible for meeting SLR requirements under Section 24 of the Banking Regulation Act, 1949. Eligible assets include cash, gold, and approved government securities.",
+      "subject": "Indian Economy",
+      "topic": "Banking & Monetary Policy",
+      "marks": 2
+    },
+    {
+      "id": "pe-4",
+      "questionText": "Consider the following statements regarding the 'Standing Deposit Facility' (SDF) introduced by the Reserve Bank of India:\n1. It allows banks to park excess liquidity with the RBI without the RBI providing collateral.\n2. The SDF rate serves as the ceiling of the Liquidity Adjustment Facility (LAF) corridor.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanation": "Statement 1 is correct: The SDF was introduced under Section 17 of the RBI Act to absorb liquidity without requiring G-Sec collateral. Statement 2 is incorrect: The SDF serves as the FLOOR (lower boundary) of the LAF corridor (25 bps below the Repo rate), while the Marginal Standing Facility (MSF) acts as the ceiling.",
+      "subject": "Indian Economy",
+      "topic": "RBI Operations",
+      "marks": 2
+    },
+    {
+      "id": "pe-5",
+      "questionText": "Under Article 280 of the Indian Constitution, the Finance Commission makes recommendations to the President regarding:\n1. The distribution of net tax proceeds between the Union and the States.\n2. The principles that should govern grants-in-aid to States out of the Consolidated Fund of India.\n3. Measures needed to augment the Consolidated Fund of a State to supplement resources of Panchayats and Municipalities.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "All three statements are correct under Article 280(3). Clause (a) deals with tax devolution (vertical and horizontal), clause (b) governs grants-in-aid under Article 275, and clauses (bb) and (c) were added by the 73rd and 74th Amendments to augment state funds for local bodies based on recommendations of State Finance Commissions.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Bodies",
+      "marks": 2
+    },
+    {
+      "id": "pe-6",
+      "questionText": "What does the term 'Fiscal Drag' refer to in macroeconomics?",
+      "options": {
+        "a": "The negative impact of excessive public debt on sovereign credit ratings.",
+        "b": "When inflation pushes taxpayers into higher income tax brackets, inadvertently dampening aggregate demand.",
+        "c": "The time delay in legislative sanction for expenditure from the Consolidated Fund.",
+        "d": "The widening gap between fiscal deficit and primary deficit during a recession."
+      },
+      "correctAnswer": "b",
+      "explanation": "Fiscal drag is an economic phenomenon where inflation pushes wages and nominal incomes into higher tax brackets under progressive tax systems (bracket creep). This increases the effective tax burden without any legislated tax increase, dragging down consumer spending and aggregate demand.",
+      "subject": "Indian Economy",
+      "topic": "Fiscal Policy",
+      "marks": 2
+    },
+    {
+      "id": "pe-7",
+      "questionText": "With reference to the Writ jurisdiction under the Indian Constitution, consider the following statements:\n1. A writ of Quo-Warranto can be sought by any interested person, even if not personally aggrieved.\n2. Mandamus cannot be issued against a private individual or body.\n3. The Supreme Court's writ jurisdiction under Article 32 is wider than that of the High Court under Article 226.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Statements 1 and 2 are correct: Quo-Warranto does not require locus standi of personal injury; any citizen can challenge usurpation of a public office. Mandamus lies only against public authorities discharging legal duties. Statement 3 is INCORRECT: The High Court's writ jurisdiction under Art. 226 is WIDER than the Supreme Court's under Art. 32 because High Courts can issue writs for fundamental rights as well as for 'any other legal purpose'.",
+      "subject": "Indian Polity",
+      "topic": "Fundamental Rights & Judiciary",
+      "marks": 2
+    },
+    {
+      "id": "pe-8",
+      "questionText": "In India, which authority regulates and supervises Non-Banking Financial Companies (NBFCs)?",
+      "options": {
+        "a": "Securities and Exchange Board of India (SEBI)",
+        "b": "Reserve Bank of India (RBI)",
+        "c": "Insolvency and Bankruptcy Board of India (IBBI)",
+        "d": "Ministry of Corporate Affairs (MCA)"
+      },
+      "correctAnswer": "b",
+      "explanation": "Under Chapter III-B of the Reserve Bank of India Act, 1934, the Reserve Bank of India is vested with the regulatory and supervisory authority over NBFCs, including registration, prudential norms, and scale-based regulatory frameworks.",
+      "subject": "Indian Economy",
+      "topic": "Financial Institutions",
+      "marks": 2
+    }
+  ]
+}

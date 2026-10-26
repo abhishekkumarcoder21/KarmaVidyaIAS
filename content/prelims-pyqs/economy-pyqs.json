@@ -1,0 +1,28 @@
+{
+  "subject": "Economy",
+  "topic": "Fiscal Policy and Banking",
+  "status": "published",
+  "questions": [
+    {
+      "id": "pyq-econ-2023-1",
+      "questionText": "Consider the following statements:\nStatement-I: Interest income from deposits in Infrastructure Investment Trusts (InvITs) distributed to investors is exempt from tax.\nStatement-II: InvITs are recognized as borrowers under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002.\n\nWhich one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "c": "Statement-I is correct but Statement-II is incorrect",
+        "d": "Statement-I is incorrect but Statement-II is correct"
+      },
+      "correctAnswer": "d",
+      "explanation": "Statement-I is incorrect: Interest income distributed by InvITs to unit holders is taxable in the hands of unit holders according to their individual tax brackets. Statement-II is correct: InvITs and REITs were notified as 'borrowers' under SARFAESI Act, empowering secured creditors to enforce securities in case of default.",
+      "year": 2023,
+      "examStage": "Prelims",
+      "subject": "Economy",
+      "topic": "Financial Markets",
+      "difficulty": "Hard",
+      "source": "UPSC CSE Prelims 2023 GS Paper 1",
+      "tags": ["Economy", "InvITs", "Taxation", "SARFAESI", "PYQ 2023"],
+      "isVerified": true,
+      "status": "published"
+    }
+  ]
+}
