@@ -12,12 +12,17 @@
   </p>
 
   <p align="center">
+    <a href="https://karmavidyaias.zybytee.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Website-karmavidyaias.zybytee.in-0B1E36?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website" /></a>
     <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-15.2-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
     <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-    <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Jest-22_Passed-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Tests" /></a>
+    <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Jest-26_Passed-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Tests" /></a>
     <img src="https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/badge/UPSC-CSE_2027-1E2A5E?style=for-the-badge" alt="Target CSE 2027" />
+  </p>
+
+  <p align="center">
+    🚀 <strong>Official Live Website:</strong> <a href="https://karmavidyaias.zybytee.in/"><strong>https://karmavidyaias.zybytee.in/</strong></a>
   </p>
 
   <p align="center">
@@ -262,7 +267,11 @@ npm run build
 
 ## 🌐 Deployment
 
-Because KarmaVidyaIAS generates 100% static HTML (SSG) via Next.js App Router, it can be deployed for **free** on any modern CDN:
+### 🔗 Live Production Site
+The platform is actively deployed and publicly accessible at:
+👉 **[https://karmavidyaias.zybytee.in/](https://karmavidyaias.zybytee.in/)**
+
+Because KarmaVidyaIAS generates 100% static HTML (SSG) via Next.js App Router, it can also be deployed for **free** on any modern CDN:
 
 ### Deploy with Vercel (Recommended)
 
