@@ -1,0 +1,1532 @@
+{
+  "title": "UPSC CSE Prelims 2022: General Studies Paper-I (Series A)",
+  "slug": "upsc-prelims-2022-gs-paper-1",
+  "description": "Official UPSC Civil Services (Preliminary) Examination 2022 GS Paper-1 complete mock test (Series A). 100 questions, 200 marks, 2 hours duration, standard negative marking (-0.66).",
+  "subject": "GS Paper 1 (Full Length)",
+  "paper": "GS1",
+  "durationMinutes": 120,
+  "totalMarks": 200,
+  "negativeMarking": true,
+  "negativeMarkingValue": 0.66,
+  "difficulty": "Hard",
+  "tags": [
+    "UPSC Prelims 2022",
+    "General Studies 1",
+    "Full Length Mock",
+    "Official Paper",
+    "Civil Services Exam",
+    "Series A"
+  ],
+  "status": "published",
+  "instructions": [
+    "This test contains 100 questions from the official UPSC CSE Prelims 2022 General Studies Paper-I (Series A).",
+    "Total duration is 120 minutes (2 hours). Maximum marks: 200.",
+    "Each question carries 2 marks for a correct answer.",
+    "Negative marking: There is a penalty of 1/3rd (0.66 marks) for each wrong answer.",
+    "Unattempted questions receive 0 marks with no penalty.",
+    "You can navigate questions using the Question Palette, Mark for Review, and Clear Response.",
+    "Upon submission, you will receive in-depth analytics, cutoff comparison, and question-by-question solutions."
+  ],
+  "questions": [
+    {
+      "id": "upsc-2022-q1",
+      "questionText": "“Rapid Financing Instrument” and ” Rapid Credit Facility” are related to the provisions of lending by which one of the following?",
+      "options": {
+        "a": "Asian Development Bank",
+        "b": "International Monetary Fund",
+        "c": "United Nations Environment Programme Finance  Initiative",
+        "d": "World Bank"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Rapid Financing Instrument (RFI) provides rapid financial assistance to all member countries on concessional and non-concessional terms facing an urgent balance of payments need. The Rapid Credit Facility (RCF) provides rapid, concessional financial assistance to low-income countries (LICs) facing an urgent balance of payments need without the need for full-fledged program conditionality. Both RFI and RCF are financial facilities administered by the International Monetary Fund (IMF).",
+      "subject": "Indian Economy",
+      "topic": "International Financial Institutions (IMF)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q2",
+      "questionText": "With reference to the Indian economy, consider the following statements:\n\n1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.\n2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.\n3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.\n\nWhich of the above statements are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Statement 1 is correct: An increase in Nominal Effective Exchange Rate (NEER) indicates that the domestic currency (Rupee) has appreciated against the weighted basket of currencies of its trading partners. Statement 2 is incorrect: An increase in Real Effective Exchange Rate (REER) implies that domestic exports are becoming relatively more expensive and imports cheaper, which indicates a deterioration (loss) in trade competitiveness, not improvement. Statement 3 is correct: Divergence between NEER and REER movements is driven by inflation differentials between the home country and trading partner economies.",
+      "subject": "Indian Economy",
+      "topic": "External Sector & Exchange Rates (NEER/REER)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q3",
+      "questionText": "With reference to the Indian economy, consider the following statements:\n\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement 1 is incorrect: When inflation is high, the RBI adopts a contractionary monetary policy and sells government securities (Open Market Operations) to absorb liquidity from the banking system, rather than buying them. Statement 2 is correct: If the rupee is depreciating rapidly, the RBI intervenes in the foreign exchange market by selling US dollars from foreign exchange reserves to arrest the fall of the rupee. Statement 3 is correct: If interest rates in the US or European Union were to rise, capital tends to flow out of emerging markets like India seeking higher returns, which typically prompts RBI to conduct liquidity operations to maintain domestic financial stability.",
+      "subject": "Indian Economy",
+      "topic": "Monetary Policy & Inflation Management",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q4",
+      "questionText": "With reference to the “G20 Common Framework”, consider the following statements:\n\n1. It is an initiative endorsed by the G20 together with the Paris Club.\n2. It is an initiative to support Low Income Countries with unsustainable debt.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Statement 1 is correct: Global monetary policy actions, notably US Federal Reserve interest rate hikes and quantitative tightening, trigger capital outflows from emerging market debt and push up domestic government bond yields. Statement 2 is correct: Actions of the Reserve Bank of India, including repo rate changes and open market operations, directly anchor short- and long-term domestic bond yields. Statement 3 is correct: Domestic inflation and economic growth determine the real rate of return demanded by investors, thereby directly influencing sovereign bond yields. Hence, all three factors impact G-Sec yields in India.",
+      "subject": "Indian Economy",
+      "topic": "Financial Markets & Government Securities",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q5",
+      "questionText": "With reference to the India economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?\n\n1. Government can reduce the coupon rates on its borrowing by way of IIBs.\n2. IIGs provide protection to the investors from uncertainty regarding inflation.\n3. The interest received as well as capital gains on IIBs are not taxable.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Under the consolidated Foreign Direct Investment (FDI) policy of India on the e-commerce sector: Marketplace entities with foreign investment can operate as technology platforms to facilitate transactions between buyers and sellers, but they are strictly prohibited from exercising ownership or control over the inventory sold on their platform. Furthermore, an entity in which an e-commerce marketplace entity or its group companies has an equity stake or control cannot sell its products on that platform. Therefore, statement 1 is correct while statement 2 is incorrect.",
+      "subject": "Indian Economy",
+      "topic": "E-Commerce FDI Policy & FDI Regulations",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q6",
+      "questionText": "With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?\n\n1. They can sell their own goods in addition to offering their platforms as market-places.\n2. The degree to which they can own big sellers on their platforms is limited.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "The 'real sector' refers to the part of the economy concerned with producing actual goods and services, as distinguished from the financial sector which deals with monetary assets, credit, and securities. Farmers harvesting crops (1) and textile mills converting raw cotton into yarn/fabric (2) represent real economic production. Commercial banks lending funds (3) and corporate rupee-denominated bonds (4) are financial intermediation instruments. Thus, only 1 and 2 belong to the real sector.",
+      "subject": "Indian Economy",
+      "topic": "Real Sector vs Financial Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q7",
+      "questionText": "Which of the following activities constitute real sector in the economy?\n\n1. farmers harvesting their crops\n2. Textile mills converting raw cotton into fabrics\n3. A commercial bank lending money to a trading company\n4. A corporate body issuing Rupee Denominated Bonds overseas\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2,3, and 4 only",
+        "c": "1, 3, and 4only",
+        "d": "1, 2, 3, and 4"
+      },
+      "correctAnswer": "a",
+      "explanation": "Statement 1 is correct: Under Section 9(1)(i) of the Income Tax Act, 1961, indirect transfer provisions state that an asset or a capital asset being any share or interest in a foreign company or entity shall be deemed to be situated in India if the share or interest derives, directly or indirectly, its value substantially from assets located in India. This provision was enacted via the Finance Act 2012 (clarified following the Vodafone case) and applies to offshore acquisitions of foreign entities owning substantial Indian assets.",
+      "subject": "Indian Economy",
+      "topic": "Taxation & Indirect Transfers",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q8",
+      "questionText": "Which one of the following situations best reflects “Indirect Transfers” often talked about in media recently with reference to India?",
+      "options": {
+        "a": "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment",
+        "b": "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment",
+        "c": "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India",
+        "d": "A foreign company transfers shares and such shares derive their substantial value from assets located in India"
+      },
+      "correctAnswer": "d",
+      "explanation": "Statement 1 is incorrect: Expenditure on acquiring new technology or machinery represents a capital expenditure because it creates enduring productive assets and increases future productive capacity, rather than revenue expenditure. Statement 2 is incorrect: Debt financing increases the financial liabilities of the borrower while equity financing shares ownership; debt financing does not create equity interest and is classified under capital receipts.",
+      "subject": "Indian Economy",
+      "topic": "Fiscal Policy & Capital Expenditure",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q9",
+      "questionText": "With reference to the expenditure made by an organization or a company, which of the following statements is/are correct?\n\n1. Acquiring new technology is capital expenditure.\n2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanation": "Option (a) is correct: Equity investment through shares allows foreign institutional investors to participate in profits without creating debt repayment obligations for the domestic firm. In contrast, foreign commercial borrowing or debt financing incurs fixed repayment commitments denominated in foreign currency, increasing external debt vulnerability. Therefore, foreign institutional investment in shares carries lower sovereign repayment pressure compared to foreign commercial borrowing.",
+      "subject": "Indian Economy",
+      "topic": "External Commercial Borrowings & Foreign Investment",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q10",
+      "questionText": "With reference to the Indian economy, consider the following statements:\n\n1. A share of the household financial savings goes towards government borrowings.\n2. Dated securities issued at market-related rates in auctions form a large component of internal debt.\n\nWhich of the above statements is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Statements 1 and 2 are incorrect while statement 3 is correct: Non-Banking Financial Companies (NBFCs) can access external commercial borrowings subject to RBI guidelines, and foreign commercial banks operating in India do face PSL (Priority Sector Lending) targets (specifically 40% of Adjusted Net Bank Credit, phased for foreign banks with 20 or more branches).",
+      "subject": "Indian Economy",
+      "topic": "Banking Sector & Financial System",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q11",
+      "questionText": "Consider the following statements:\n\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.\n3. The Constitution of India defines Civil Contempt and Criminal Contempt.\n4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 4 only",
+        "c": "3 and 4 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Aarogya Setu, CoWIN, DigiLocker, and DIKSHA are open-source and open-standard digital platforms built as part of the India Stack to provide digital public infrastructure at population scale. All four platforms operate on open-source software and open APIs to foster interoperability, transparency, and collaborative development across governmental and private civic technology domains.",
+      "subject": "Science & Technology",
+      "topic": "Digital Public Infrastructure & Open Source",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q12",
+      "questionText": "With reference to India, consider the following statements:\n\n1. Government law officers and legal firms are recognized as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates.\n2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "Web 3.0 represents a vision of the World Wide Web based on blockchain technology, decentralization, token-based economics, and user sovereign data ownership. In Web 3.0, users have ownership over their digital identity and personal data, applications operate on decentralized peer-to-peer protocols (dApps) rather than centralized corporate servers, and governance can be driven through decentralized autonomous organizations (DAOs).",
+      "subject": "Science & Technology",
+      "topic": "Web 3.0 & Decentralized Technologies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q13",
+      "questionText": "Consider the following statements:\n\n1. A bill amending the Constitution requires a prior recommendation of the President of India.\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and Rajya Sabha by a special majority and there is no provision for joint sitting.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement 1 is correct: SaaS buyers can configure settings, customize user interfaces to match corporate branding, and define custom data fields within the software application. Statement 2 is correct: SaaS applications are cloud-hosted and accessible via standard web browsers or dedicated mobile applications on mobile devices. Statement 3 is correct: Web-based email services such as Microsoft Outlook Web, Hotmail, and Yahoo! Mail are quintessential examples of Software as a Service, where the application and server infrastructure are managed entirely by the service provider.",
+      "subject": "Science & Technology",
+      "topic": "Cloud Computing & SaaS Architecture",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q14",
+      "questionText": "Consider the following statements:\n\n1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister.\n2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "Fractional Orbital Bombardment System (FOBS) is a space-based nuclear/missile delivery system developed during the Cold War. A warhead is launched into a low, stable Earth orbit (fractional orbit), effectively flying under early warning radars and avoiding traditional intercontinental ballistic trajectories, before de-orbiting with retro-rockets over its target on Earth.",
+      "subject": "Science & Technology",
+      "topic": "Space & Defense (FOBS Missile Systems)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q15",
+      "questionText": "Which of the following is/are the exclusive power(s) of Lok Sabha?\n\n1. To ratify the declaration of Emergency\n2. To pass a motion of no-confidence against the Council of Ministers\n3. To impeach the President of India\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "A 'qubit' (quantum bit) is the fundamental unit of quantum information in quantum computing, analogous to the classical binary bit (0 or 1). Unlike classical bits that can only exist in a state of 0 or 1, a qubit can exist in a superposition of both states simultaneously according to quantum mechanics principles.",
+      "subject": "Science & Technology",
+      "topic": "Quantum Computing & Qubits",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q16",
+      "questionText": "With reference to anti-defection law in India, consider the following statements:\n\n1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.\n2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "All three technologies—Bio-sensors, Radio-Frequency Identification (RFID), and Wireless Local Area Network (Wi-Fi)—operate within short to medium range communication spectra. Short-range bio-sensors operate within body area networks (BAN); RFID functions over distances from a few centimeters up to a few meters; and Wi-Fi networks typically cover local indoor distances of 10 to 100 meters.",
+      "subject": "Science & Technology",
+      "topic": "Short-Range Wireless Communication",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q17",
+      "questionText": "Consider the following statements:\n\n1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India.\n2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanation": "Biofilms are structured communities of microbial cells (bacteria, fungi, and protists) embedded in a self-produced extracellular polymeric substance (EPS) matrix. Biofilms can form on medical implants and catheter surfaces (1), inside living tissues and food products (2), and exhibit remarkable resistance to conventional antibiotics and disinfectants (3). Hence all three statements are correct.",
+      "subject": "Science & Technology",
+      "topic": "Microbiology & Biofilms",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q18",
+      "questionText": "With reference to the writs issued by the Courts in India, consider the following statements:\n\n1. Mandamus will not lie against a private organization unless it is entrusted with a public duty.\n2. Mandamus will not lie against a Company even though it may be a Government Company.\n3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Probiotics are live microorganisms that confer health benefits to the host when administered in adequate amounts. They consist of beneficial bacteria (such as Lactobacillus and Bifidobacterium) as well as yeasts (such as Saccharomyces boulardii). They inhabit the human gastrointestinal tract and aid in the digestion of complex milk carbohydrates, lactose, and nutrients. Hence, statements 1 and 3 are correct.",
+      "subject": "Science & Technology",
+      "topic": "Biotechnology & Probiotics",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q19",
+      "questionText": "With reference to Ayushman Bharat Digital Mission, consider the following statements:\n\n1. Private and public hospitals must adopt it.\n2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately.\n3. It has seamless portability across the country.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "In the COVID-19 pandemic response: Covishield (developed by AstraZeneca/Oxford and manufactured by Serum Institute of India) is a viral vector vaccine using chimpanzee adenovirus. Covaxin (developed by Bharat Biotech in collaboration with ICMR) is an inactivated whole-virion pathogen vaccine. Sputnik V is an adenoviral vector vaccine utilizing two human adenovirus serotypes (rAd26 and rAd5). Thus, all statements accurately distinguish the vaccine platforms.",
+      "subject": "Science & Technology",
+      "topic": "Vaccine Technologies & Immunization",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q20",
+      "questionText": "With reference to Deputy Speaker of Lok Sabha, consider the following statements:\n\n1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.\n2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.\n3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.\n4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "1, 2 and 3",
+        "c": "3 and 4 only",
+        "d": "2 and 4 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "A massive Coronal Mass Ejection (CME) or severe geomagnetic solar storm can disrupt satellite navigation (GPS/NavIC), damage electrical power grids via geomagnetically induced currents (GIC), degrade high-frequency radio communications, create widespread auroras, and interfere with aircraft navigation and low-Earth orbit satellites. All listed terrestrial and orbital impacts are recognized scientific consequences of major solar storms.",
+      "subject": "Science & Technology",
+      "topic": "Space Weather & Solar Storms (CME)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q21",
+      "questionText": "Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?",
+      "options": {
+        "a": "Cotton",
+        "b": "Rice",
+        "c": "Sugarcane",
+        "d": "Wheat"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Climate Action Tracker (CAT) is an independent scientific analysis produced by two research organizations—Climate Analytics and NewClimate Institute—tracking government climate actions and measuring them against the globally agreed Paris Agreement aim of holding warming well below 2°C and pursuing 1.5°C.",
+      "subject": "Environment & Ecology",
+      "topic": "Global Climate Action & Tracking",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q22",
+      "questionText": "“System of Rice Intensification” of cultivation, in which alternate wetting and drying of rice fields is practised, results in:\n\n1. Reduced seed requirement\n2. Reduced methane production\n3. Reduced electricity consumption\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "EP100 is a global corporate initiative led by the Climate Group in partnership with the Alliance to Save Energy. It brings together forward-looking companies committed to measuring, managing, and maximizing their energy productivity (doing more with less energy) to accelerate emissions reductions and economic competitiveness.",
+      "subject": "Environment & Ecology",
+      "topic": "Corporate Climate Initiatives & Energy Transition",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q23",
+      "questionText": "Which one of the following lakes of West Africa has become dry and turned into a desert?",
+      "options": {
+        "a": "Lake Victoria",
+        "b": "Lake Faguibine",
+        "c": "Lake Oguta",
+        "d": "Lake Volta"
+      },
+      "correctAnswer": "b",
+      "explanation": "Wetlands and peatlands act as Earth's natural water filters and carbon sinks. They retain excess nutrients, heavy metals, and sediments, while storing vast quantities of organic carbon. They are biologically productive buffer ecosystems that absorb storm surges and mitigate floodwaters, functioning analogous to kidneys of the landscape.",
+      "subject": "Environment & Ecology",
+      "topic": "Ecosystem Functions & Wetland Conservation",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q24",
+      "questionText": "Gandikota canyon of South India was created by which one of the following rivers?",
+      "options": {
+        "a": "Cauvery",
+        "b": "Manjira",
+        "c": "Pennar",
+        "d": "Tungabhadra"
+      },
+      "correctAnswer": "c",
+      "explanation": "The System of Environmental-Economic Accounting (SEEA) is an internationally agreed standard framework adopted by the United Nations Statistical Commission for integrating economic and environmental data to provide a comprehensive, multipurpose view of the interrelationships between the economy and the environment.",
+      "subject": "Environment & Ecology",
+      "topic": "Environmental Accounting (SEEA)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q25",
+      "questionText": "Consider the following pairs:\n\nPeak: | Mountains\nNamcha Barwa | Garhwal Himalaya\nNanda Devi | Kumaon Himalaya\nNokrek | Sikkim Himalaya\n\nWhich of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Under the Wildlife (Protection) Act, 1972, a National Park enjoys the highest degree of statutory protection in India. Unlike Wildlife Sanctuaries or Community Reserves, no human habitation, grazing of livestock, or harvesting of forest produce by private individuals is permitted inside the boundaries of a National Park without specific Chief Wildlife Warden sanction.",
+      "subject": "Environment & Ecology",
+      "topic": "Protected Areas & National Parks",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q26",
+      "questionText": "The term “Levant” often heard in the news roughly corresponds to which of the following regions?",
+      "options": {
+        "a": "Region along the eastern Mediterranean shores",
+        "b": "Region along North African shores stretching from Egypt to Morocco",
+        "c": "Region along Persian Gulf and Horn of Africa",
+        "d": "The entire coastal Mediterranean Sea of areas"
+      },
+      "correctAnswer": "a",
+      "explanation": "Biorock technology (also known as mineral accretion technology) involves applying low-voltage direct electrical currents through seawater onto conductive submerged steel structures. This causes dissolved calcium carbonate and magnesium hydroxide minerals to precipitate, creating a natural limestone substrate that accelerates coral growth by 3 to 5 times and helps restore damaged marine coral reefs.",
+      "subject": "Environment & Ecology",
+      "topic": "Coral Reef Restoration & Biorock Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q27",
+      "questionText": "Consider the following countries:\n\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Uzbekistan\n5. Turkmenistan\n\nWhich of the above have borders with Afghanistan?",
+      "options": {
+        "a": "1, 2 and 5 only",
+        "b": "1, 2, 3 and 4 only",
+        "c": "3, 4 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "correctAnswer": "c",
+      "explanation": "The Miyawaki method, pioneered by Japanese botanist Akira Miyawaki, is a unique afforestation technique used to grow dense, multi-layered native forests in small urban and peri-urban spaces. By planting native trees close together, the plants grow up to ten times faster and thirty times denser than traditional plantations.",
+      "subject": "Environment & Ecology",
+      "topic": "Forestry & Miyawaki Afforestation",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q28",
+      "questionText": "With reference to India, consider the following statements:\n\n1. Monazite is a source of rare earths.\n2. Monazite contains thorium.\n3. Monazite occurs naturally in the entire Indian coastal sands in India.\n4. In India, Government bodies only can process or export monazite.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1, 2 and 3 only",
+        "b": "1, 2 and 4 only",
+        "c": "3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Plastic Waste Management Amendment Rules notify comprehensive guidelines on Extended Producer Responsibility (EPR) for plastic packaging. Under the rules, single-use plastic commodities with low utility and high littering potential were banned, and rigid plastic packaging, flexible packaging of single or multi-layer, and multi-layered plastic packaging are categorized for recycling mandates.",
+      "subject": "Environment & Ecology",
+      "topic": "Waste Management & Plastic Waste Rules",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q29",
+      "questionText": "In the northern hemisphere, the longest day of the year normally occurs in the:",
+      "options": {
+        "a": "First half of the month of June",
+        "b": "Second half of the month of June",
+        "c": "First half of the month of July",
+        "d": "Second half of the month of July"
+      },
+      "correctAnswer": "b",
+      "explanation": "Polyethylene Terephthalate (PET) is a common thermoplastic polymer resin used in beverage bottles, food containers, and synthetic fibers (polyester). PET can be recycled repeatedly into fibers, sheets, and new containers; however, like other plastics, degradation under heat and sunlight can leach chemical additives like antimony trioxide and microplastics.",
+      "subject": "Environment & Ecology",
+      "topic": "Polymers, Plastics & Environmental Impact",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q30",
+      "questionText": "Consider the following pairs:\n\nWetland/Lake: | Location\nHokera Wetland | Punjab\nRenuka Wetland | Himachal Pradesh\nRudrasagar Lake | Tripura\nSasthamkotta Lake | Tamil Nadu\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "b",
+      "explanation": "Indian ornithology classifies native species across diverse habitats. Species like the Indian courser and great Indian bustard dwell in open arid grasslands; hornbills and trogons frequent dense rainforest canopies; while wetland avifauna including spoonbills and painted storks specialize in shallow freshwater and marshy ecosystems.",
+      "subject": "Environment & Ecology",
+      "topic": "Avian Biodiversity & Indian Birds",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q31",
+      "questionText": "Consider the following:\n\n1. Aarogya Setu\n2. COWIN\n3. DigiLocker\n4. DIKSHA\n\nWhich of the above are built on top of open-source digital platforms?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2, 3 and 4 only",
+        "c": "1, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 31 is (d).\n\nTopic Focus: Ancient & Medieval Temples and Shrines under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Ancient & Medieval Temples and Shrines. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Ancient & Medieval Temples and Shrines",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q32",
+      "questionText": "With reference to Web 3.0 consider the following statements:\n\n1. Web 3.0 technology enables people to control their own data\n2. In Web 3.0 world, there can be blockchain social networks.\n3. Web 3.0 is operated by users collectivelyrather than a corporation.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2, and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 32 is (d).\n\nTopic Focus: Medieval Dynasties & Chandelas under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Medieval Dynasties & Chandelas. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Medieval Dynasties & Chandelas",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q33",
+      "questionText": "With reference to “Software as a Service (SaaS)”, consider the following statements:\n\n1. SaaS buyers can customise the user interface and can change data fields.\n2. SaaS users can access their data through their mobile devices.\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 33 is (d).\n\nTopic Focus: Bhakti Movement & Ramanujacharya under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Bhakti Movement & Ramanujacharya. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Bhakti Movement & Ramanujacharya",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q34",
+      "questionText": "Which one of the following statements best reflects the idea behind the “Fractional Orbital Bombardment System” often talked about in media?",
+      "options": {
+        "a": "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space",
+        "b": "A spacecraft lands on another planet after making several orbital motions",
+        "c": "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth",
+        "d": "A spacecraft moves along a comet with the same surface. speed and places a probe on its"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 34 is (c).\n\nTopic Focus: Contemporary Indian History & Memorials under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Contemporary Indian History & Memorials. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Contemporary Indian History & Memorials",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q35",
+      "questionText": "Which one of the following is the context in which the term “qubit” is mentioned?",
+      "options": {
+        "a": "Cloud Services",
+        "b": "Quantum Computing",
+        "c": "Visible Light Communication Technologies",
+        "d": "Wireless Communication Technologies"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 35 is (b).\n\nTopic Focus: Mauryan Epigraphy & Major Rock Edicts under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Mauryan Epigraphy & Major Rock Edicts. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Mauryan Epigraphy & Major Rock Edicts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q36",
+      "questionText": "Consider the following communication technologies:\n\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\n\nWhich of the above are considered of the Short-Range devices/technologies?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 36 is (d).\n\nTopic Focus: Sangam Literature & Ancient South India under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Sangam Literature & Ancient South India. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Sangam Literature & Ancient South India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q37",
+      "questionText": "Consider the following statements:\n\n1. Biofilms can form on medical implants within human tissues.\n2. Biofilms can form on food and food processing surfaces.\n3. Biofilms can exhibit antibiotic resistance.\n\nWhich of the statements given above are correct ?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 37 is (d).\n\nTopic Focus: Medieval Indian Terminology & Administration under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Medieval Indian Terminology & Administration. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Medieval Indian Terminology & Administration",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q38",
+      "questionText": "Consider the following statements in respect of probiotics:\n\n1. Probiotics are made of both bacteria and yeast.\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.\n3. Probiotics help in the digestion of milk sugars.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 38 is (c).\n\nTopic Focus: Colonial History & Social Reform (Rakhmabai Case) under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Colonial History & Social Reform (Rakhmabai Case). Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Colonial History & Social Reform (Rakhmabai Case)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q39",
+      "questionText": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.\n2. Sputnik V vaccine is manufactured using vector based platform.\n3. COVAXIN is an inactivated pathogen based vaccine.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 39 is (b).\n\nTopic Focus: Ancient Indian Literature & Dramas under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Ancient Indian Literature & Dramas. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Ancient Indian Literature & Dramas",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q40",
+      "questionText": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n\n1. GPS and navigation systems could fail.\n2. Tsunamis could occur at equatorial regions.\n3. Power grids could be damaged.\n4. Intense auroras could occur over much of the Earth.\n5. Forest fires could take place over much of the planet.\n6. Orbits of the satellites could be disturbed.\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2, 4 and 5 only",
+        "b": "2, 3, 5, 6 and 7 only",
+        "c": "1, 3, 4, 6 and 7 only",
+        "d": "1, 2, 3, 4, 5, 6 and 7"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 40 is (c).\n\nTopic Focus: Colonial Economy & British Monopolies under History & Culture.\nThe question assesses precise conceptual clarity and factual understanding of Colonial Economy & British Monopolies. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "History & Culture",
+      "topic": "Colonial Economy & British Monopolies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q41",
+      "questionText": "“Climate Action tracker” which monitors the emission reduction pledges of different countries is a:",
+      "options": {
+        "a": "Database created by coalition of research organisations",
+        "b": "Wings of  “International panel of Climate Change”",
+        "c": "Committee under United nations Framework Convention on Climate Change”",
+        "d": "Agency promoted and financed by United Nations Environment Programme and World Bank"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 41 is (a).\n\nTopic Focus: Judicial Institutions & Contempt of Court under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Judicial Institutions & Contempt of Court. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Judicial Institutions & Contempt of Court",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q42",
+      "questionText": "Consider the following statements:\n\n1. “The Climate Group” is an international non-profit organization that drives climate action by building large networks and runs them.\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative “EP100”.\n3. EP100 brings together lending companies committee to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals.\n4. Some Indian companies are members of EP100.\n5. The International Energy Agency is the Secretariat to the “Under2 Coalition”.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1, 2, 4 and 5",
+        "b": "1,3 and 4 only",
+        "c": "2, 3 and 5 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 42 is (b).\n\nTopic Focus: Legal Profession & Bar Council Regulations under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Legal Profession & Bar Council Regulations. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Legal Profession & Bar Council Regulations",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q43",
+      "questionText": "“If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.” Which one of the following functions of wetlands best reflects the above statement?",
+      "options": {
+        "a": "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation",
+        "b": "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive",
+        "c": "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization",
+        "d": "Aquatic plants absorb heavy metals and excess nutrients"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 43 is (c).\n\nTopic Focus: Constitutional Amendment (Article 368) under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Constitutional Amendment (Article 368). Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Amendment (Article 368)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q44",
+      "questionText": "In the Guidelines, statements: context of WHO consider the Air Quality following\n\n1. The 24-hour mean of PM2.5 should not exceed 15 ug/m³ and annual mean of PM 2.5 should not exceed 5 µg/m³.\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.\n3. PM10 can penetrate the lung barrier and enter the bloodstream.\n4. Excessive ozone in the air can trigger asthma.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1, 3 and 4",
+        "b": "1 and 4 only",
+        "c": "2, 3 and 4",
+        "d": "1 and 2 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 44 is (b).\n\nTopic Focus: Union Executive & Council of Ministers under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Union Executive & Council of Ministers. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Union Executive & Council of Ministers",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q45",
+      "questionText": "With reference to “Gucchi” sometimes mentioned in the news, consider the following statements:\n\n1. It is a fungus.\n2. It grows in some Himalayan forest areas.\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "3 only",
+        "c": "1 and 2",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 45 is (c).\n\nTopic Focus: Parliamentary Procedure & Speaker/Deputy Speaker under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Parliamentary Procedure & Speaker/Deputy Speaker. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Parliamentary Procedure & Speaker/Deputy Speaker",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q46",
+      "questionText": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.\n2. Containers made of it can be used to store any alcoholic beverage.\n3. Bottles made of it can be recycled into other products.\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "1 and 4",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 46 is (a).\n\nTopic Focus: Constitutional Writs (Mandamus & Quo Warranto) under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Constitutional Writs (Mandamus & Quo Warranto). Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Writs (Mandamus & Quo Warranto)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q47",
+      "questionText": "Which of the following is not a bird?",
+      "options": {
+        "a": "Golden Mahseer",
+        "b": "Indian Nightjar",
+        "c": "Spoonbill",
+        "d": "White Ibis"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 47 is (a).\n\nTopic Focus: Health Governance & Ayushman Bharat under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Health Governance & Ayushman Bharat. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Health Governance & Ayushman Bharat",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q48",
+      "questionText": "Which of the following are nitrogen-fixing plants?\n\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "1, 3, 5 and 6 only",
+        "c": "2, 4, 5 and 6 only",
+        "d": "1, 2, 4, 5 and 6"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 48 is (a).\n\nTopic Focus: Parliamentary Committees & Sessions under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Parliamentary Committees & Sessions. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Parliamentary Committees & Sessions",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q49",
+      "questionText": "“Biorock technology” is talked about in which one of the following situations?",
+      "options": {
+        "a": "Restoration of damaged coral reefs",
+        "b": "Development of building materials using plant residues",
+        "c": "Identification of areas for exploration/extraction of shale gas",
+        "d": "Providing salt licks for wild animals in forests/protected areas"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 49 is (a).\n\nTopic Focus: Electoral Law & Representation of the People Act under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Electoral Law & Representation of the People Act. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Electoral Law & Representation of the People Act",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q50",
+      "questionText": "The “Miyawaki method” is well known for the:",
+      "options": {
+        "a": "Promotion of commercial farming in arid and semi-arid areas",
+        "b": "Development of gardens using genetically modified flora",
+        "c": "Creation of mini forests in urban areas",
+        "d": "Harvesting wind energy on coastal areas and on sea surfaces"
+      },
+      "correctAnswer": "c",
+      "explanation": "The Miyawaki method is a Japanese afforestation technique invented by Akira Miyawaki to grow dense native mini-forests in urban areas within 20 to 30 years instead of the 200–300 years taken by conventional natural succession.",
+      "subject": "Indian Polity",
+      "topic": "Tribunals & Quasi-Judicial Bodies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q51",
+      "questionText": "In the Government of India Act 1919, the functions of Provincial Government were divided into “Reserved” and “Transferred” subjects. Which of the following were treated as “Reserved” subjects?\n\n1. Administration of Justice\n2. Local Self-Government\n3. Land Revenue\n4. Police\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2, 3 and 4",
+        "c": "1, 3 and 4",
+        "d": "1, 2 and 4"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 51 is (c).\n\nTopic Focus: Government of India Act 1919 & Montagu-Chelmsford under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Government of India Act 1919 & Montagu-Chelmsford. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Government of India Act 1919 & Montagu-Chelmsford",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q52",
+      "questionText": "In Medieval India, the term “Fanam” referred to:",
+      "options": {
+        "a": "Clothing",
+        "b": "Coins",
+        "c": "Ornaments",
+        "d": "Weapons"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 52 is (b).\n\nTopic Focus: Cripps Mission (1942) under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Cripps Mission (1942). Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Cripps Mission (1942)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q53",
+      "questionText": "Consider the following freedom fighters:\n\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose\n\nWho of the above was/were actively associated with the Ghadar Party?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 53 is (d).\n\nTopic Focus: Freedom Movement & INA Trials / Navy Mutiny under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Freedom Movement & INA Trials / Navy Mutiny. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Freedom Movement & INA Trials / Navy Mutiny",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q54",
+      "questionText": "With reference to the proposals of Cripps Mission, consider the following statements:\n\n1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States\n2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 54 is (b).\n\nTopic Focus: Quit India Movement & August Offer under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Quit India Movement & August Offer. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Quit India Movement & August Offer",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q55",
+      "questionText": "With reference to Indian History, consider the following texts:\n\n1. Nettipakarana\n2. Parishishtaparavan\n3. Avadanashataka\n4. Trishashtilakshana Mahapurana\n\nWhich of the above are Jains texts?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 4",
+        "c": "1, 3 and 4",
+        "d": "2, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 55 is (b).\n\nTopic Focus: Modern Literature & Vernacular Press under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Modern Literature & Vernacular Press. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Modern Literature & Vernacular Press",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q56",
+      "questionText": "With reference to Indian history, consider the following pairs:\n\nHistorical person –  Known as\n\n1. Aryadeva    –    Jaina scholar\n2. Dignaga    –    Buddhist scholar\n3. Nathamuni   –  Vaishnava scholar\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "None of the pairs",
+        "b": "Only one pairs",
+        "c": "Only two pairs",
+        "d": "All three pairs"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 56 is (c).\n\nTopic Focus: Revolutionary Movement & Ghadar Party under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Revolutionary Movement & Ghadar Party. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Revolutionary Movement & Ghadar Party",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q57",
+      "questionText": "With reference to Indian history, consider the following statements:\n\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 57 is (b).\n\nTopic Focus: Socialist & Peasant Movements in India under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Socialist & Peasant Movements in India. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Socialist & Peasant Movements in India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q58",
+      "questionText": "With reference to Indian history, who of the following were known as “Kulah-Daran”?",
+      "options": {
+        "a": "Arab merchants",
+        "b": "Qalandars",
+        "c": "Persian calligraphists",
+        "d": "Sayyids"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 58 is (d).\n\nTopic Focus: Constituent Assembly Debates & Framing under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Constituent Assembly Debates & Framing. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Constituent Assembly Debates & Framing",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q59",
+      "questionText": "With reference to Indian history, consider the following statements:\n\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers.\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.\n3. The English East India. Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 59 is (b).\n\nTopic Focus: Integration of Princely States under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Integration of Princely States. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Integration of Princely States",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q60",
+      "questionText": "According to Kautilya’s Arthashastra, which of the following are correct?\n\n1. A person could be a slave as a result of the judicial punishment.\n2. If a females slave bore her master a son she was legally free.\n3. If a son born to a female slave was fathered by her master, the son was entilted to the legal status of the master’s son.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 60 is (d).\n\nTopic Focus: Tribal Uprisings & Santhal / Munda Rebellions under Modern History.\nThe question assesses precise conceptual clarity and factual understanding of Tribal Uprisings & Santhal / Munda Rebellions. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Modern History",
+      "topic": "Tribal Uprisings & Santhal / Munda Rebellions",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q61",
+      "questionText": "Consider the following statements:\n\n1. Tight monetary policy of US Federal Reserve could lead to capital flight.\n2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).\n3. Devaluation of domestic currency decreases the currency risk associated with ECBS.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 61 is (a).\n\nTopic Focus: Indian Agriculture & Kharif/Rabi Crops under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Indian Agriculture & Kharif/Rabi Crops. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Indian Agriculture & Kharif/Rabi Crops",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q62",
+      "questionText": "Consider the following States:\n\n1. Andhra Pradesh\n2. Kerala\n3. Himachal Pradesh\n4. Tripura\n\nHow many of the above are generally known as tea-producing States?",
+      "options": {
+        "a": "Only one State",
+        "b": "Only two States",
+        "c": "Only three States",
+        "d": "All four States"
+      },
+      "correctAnswer": "c",
+      "explanation": "In India, tea is cultivated not only in traditional northeastern states (Assam, West Bengal, Tripura) and southern states (Tamil Nadu, Kerala, Karnataka), but also in non-traditional hilly states including Himachal Pradesh (Kangra valley), Uttarakhand, and parts of Arunachal Pradesh.",
+      "subject": "Geography",
+      "topic": "Commercial Crops & Tea Production",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q63",
+      "questionText": "Consider the following statements:\n\n1. In India, credit rating agencies are regulated by Reserve Bank of India.\n2. The rating agency popularly known as ICRA is a public limited company.\n3. Brickwork Ratings is an Indian credit rating agency.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 63 is (b).\n\nTopic Focus: Credit Rating Agencies in India under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Credit Rating Agencies in India. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Credit Rating Agencies in India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q64",
+      "questionText": "With reference to the ‘Banks Board Bureau (BBB)’, which of the following statements are correct?\n\n1. The Governor of RBI is the Chairman of\n2. BBB recommends for the selection of heads for Public Sector Banks.\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 64 is (b).\n\nTopic Focus: Banks Board Bureau (BBB) & Governance under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Banks Board Bureau (BBB) & Governance. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Banks Board Bureau (BBB) & Governance",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q65",
+      "questionText": "Convertible Bonds, consider the following statements:\n\n1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.\n2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 65 is (c).\n\nTopic Focus: Convertible Bonds & Corporate Finance under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Convertible Bonds & Corporate Finance. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Convertible Bonds & Corporate Finance",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q66",
+      "questionText": "Consider the following:\n\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation\n\nIndia is a member of which of the above?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 66 is (d).\n\nTopic Focus: Asian Infrastructure Investment Bank (AIIB) under International Relations.\nThe question assesses precise conceptual clarity and factual understanding of Asian Infrastructure Investment Bank (AIIB). Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "International Relations",
+      "topic": "Asian Infrastructure Investment Bank (AIIB)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q67",
+      "questionText": "Consider the following statements:\n\n1. Vietnam has been one of the fastest growing economies in the world in the recent years.\n2. Vietnam is led by a multi-party political system.\n3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports.\n4. For a long time Vietnam’s low labour costs and stable exchange rates have attracted global manufacturers.\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "2 and 4",
+        "b": "3 and 5",
+        "c": "1 and 2",
+        "d": "1, 3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 67 is (c).\n\nTopic Focus: International Maritime Law & Polar Code under International Relations.\nThe question assesses precise conceptual clarity and factual understanding of International Maritime Law & Polar Code. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "International Relations",
+      "topic": "International Maritime Law & Polar Code",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q68",
+      "questionText": "In India, which one of the following is responsible for maintaining price stability by controlling inflation?",
+      "options": {
+        "a": "Department of Consumer Affairs",
+        "b": "Expenditure Management Commission",
+        "c": "Financial Stability and Development Council",
+        "d": "Reserve Bank of India"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 68 is (d).\n\nTopic Focus: Physical Geography & River Systems under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Physical Geography & River Systems. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Physical Geography & River Systems",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q69",
+      "questionText": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium transactions. of commercial\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Non-Fungible Tokens (NFTs) are unique cryptographic assets recorded on a blockchain with unique identification codes and metadata. Because each token is unique and non-interchangeable (unlike Bitcoin or paper rupees), NFTs are not fungible at equivalency; however, they can represent digital ownership of both digital and real-world physical assets.",
+      "subject": "Science & Technology",
+      "topic": "Blockchain & Non-Fungible Tokens (NFTs)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q70",
+      "questionText": "Consider the following pairs:\n\nReservoirs:        States\n\n1. Ghataprabha:          Telangana.\n\n1. Gandhi Sagar:      Madhya Pradesh\n\n1. Indira Sagar:      Andhra Pradesh\n\n1. Maithon:      Chhattisgarh\n\nHow many pairs given above are not correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs PAY",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 70 is (c).\n\nTopic Focus: Geomorphology & Canyons (Gandikota) under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Geomorphology & Canyons (Gandikota). Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Geomorphology & Canyons (Gandikota)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q71",
+      "questionText": "In India, which one of the following compiles information on industrial disputes, closeres, retrenchments and lay-offs in factories employing workers?",
+      "options": {
+        "a": "Central Statistics office",
+        "b": "Department for Promotion of Industry and Internal Trade",
+        "c": "Labour Bureau",
+        "d": "National technical manpower Information System"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 71 is (c).\n\nTopic Focus: Peaks & Mountain Ranges of India under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Peaks & Mountain Ranges of India. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Peaks & Mountain Ranges of India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q72",
+      "questionText": "In India, what is the role of the Coal Controller’s Organisation (CCO)?\n\n1. CCO is the major source of Coal Statistics in Government Of India.\n2. It monitors process of development of Captive Coal/Lignite blocks.\n3. It hears any objection to the Government’s notofication relating to acquision of coal-bearing areas.\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "3 and 4 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 4"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 72 is (a).\n\nTopic Focus: Levant & West Asian Geography under International Relations.\nThe question assesses precise conceptual clarity and factual understanding of Levant & West Asian Geography. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "International Relations",
+      "topic": "Levant & West Asian Geography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q73",
+      "questionText": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?",
+      "options": {
+        "a": "This would prevent the transfer of land of tribal people to non-tribal people",
+        "b": "This would create a local self-governing body in that area",
+        "c": "This would convert that area into a Union Territory",
+        "d": "The State having such areas would be declared a Special Category State"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 73 is (a).\n\nTopic Focus: Central Asian States & Bordering Countries under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Central Asian States & Bordering Countries. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Central Asian States & Bordering Countries",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q74",
+      "questionText": "Consider the following statements:\n\n1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World health organization.\n2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenge of Urban India.\n\nWhich of the statement given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 74 is (b).\n\nTopic Focus: Hydrology & Monsoons in India under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Hydrology & Monsoons in India. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Hydrology & Monsoons in India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q75",
+      "questionText": "Which one of the following has been constituted under the Environment (Protection) Act, 1986 ?",
+      "options": {
+        "a": "Central Water Commission",
+        "b": "Central Ground Water Board",
+        "c": "Central Ground Water Authority",
+        "d": "National Water Development Agency"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 75 is (c).\n\nTopic Focus: Wetlands & Ramsar Sites in India under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Wetlands & Ramsar Sites in India. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Wetlands & Ramsar Sites in India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q76",
+      "questionText": "With reference to the “United Nations Credentials Committee”, consider the following statements:\n\n1. It is a committee set up by the UN Security Council and works under its supervision.\n2. it traditionally meets in March, June and September every year.\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "3 only",
+        "b": "1 and 3",
+        "c": "2 and 3",
+        "d": "1 and 2"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 76 is (a).\n\nTopic Focus: Climate Action & Renewable Energy (IRENA) under International Relations.\nThe question assesses precise conceptual clarity and factual understanding of Climate Action & Renewable Energy (IRENA). Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "International Relations",
+      "topic": "Climate Action & Renewable Energy (IRENA)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q77",
+      "questionText": "Which of the following statements best describes the ‘Polar Code’?",
+      "options": {
+        "a": "It is the international code of safety for ships operating in polar waters",
+        "b": "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region",
+        "c": "It is set norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole",
+        "d": "It is trade and security agreement of the member countries of the Arctic council"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 77 is (a).\n\nTopic Focus: World Geography & Important Water Bodies under Geography.\nThe question assesses precise conceptual clarity and factual understanding of World Geography & Important Water Bodies. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "World Geography & Important Water Bodies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q78",
+      "questionText": "With reference to the United Nations General Assembly, consider the following statements:\n\n1. The UN General Assembly can grant observer status to the no the non-member States.\n2. Inter-governmental organisations can seek observer status in the UN General Assembly.\n3. Permanent Observers in General Assembly can the UN maintain missions at the UN headquarters.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 78 is (d).\n\nTopic Focus: Ocean Currents & Marine Ecology under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Ocean Currents & Marine Ecology. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Ocean Currents & Marine Ecology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q79",
+      "questionText": "With reference to the “Tea Board” in India, consider the following statements:\n\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board’s Head Office is situated in Bengaluru.\n4. The Board has overseas offices at Dubai and Moscow.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "3 and 4",
+        "d": "1 and 4"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 79 is (d).\n\nTopic Focus: Atmospheric Circulation & El Niño/La Niña under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Atmospheric Circulation & El Niño/La Niña. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Atmospheric Circulation & El Niño/La Niña",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q80",
+      "questionText": "Which one of the following best describes the term “greenwashing”?",
+      "options": {
+        "a": "Conveying a false impression that a company’s products are eco-friendly and environmentally sound",
+        "b": "Non-inclusion of ecological/ environmental costs in the Annual Financial Statements of a country",
+        "c": "Ignoring the consequences disastrous ecological while infrastructure development undertaking",
+        "d": "Making mandatory provisions for environmental costs in a government project/programme"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 80 is (a).\n\nTopic Focus: Indian Soils & Soil Conservation under Geography.\nThe question assesses precise conceptual clarity and factual understanding of Indian Soils & Soil Conservation. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Geography",
+      "topic": "Indian Soils & Soil Conservation",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q81",
+      "questionText": "Consider the following statements:\n\n1. High clouds primarily reflects solar radiation and cool the surface of the Earth.\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth’s surface and thus cause warming effects.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 81 is (d).\n\nTopic Focus: Attorney General & Solicitor General of India under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Attorney General & Solicitor General of India. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Attorney General & Solicitor General of India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q82",
+      "questionText": "Consider the following statements:\n\n1. Bidibidi is a large refugee settlement in north-western Kenya.\n2. Some people who fled from South Sudan civil war live in Bidibidi.\n3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 82 is (c).\n\nTopic Focus: National Human Rights Commission (NHRC) under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of National Human Rights Commission (NHRC). Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "National Human Rights Commission (NHRC)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q83",
+      "questionText": "Consider the following countries:\n\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\n\nWhich of the above are members of the Organisation of Turkic States?",
+      "options": {
+        "a": "1, 2 and 4",
+        "b": "1 and 3",
+        "c": "2 and 5",
+        "d": "3, 4 and 5"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 83 is (c).\n\nTopic Focus: Supreme Court Jurisdiction & Judicial Review under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Supreme Court Jurisdiction & Judicial Review. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Supreme Court Jurisdiction & Judicial Review",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q84",
+      "questionText": "Consider the following statements :\n\n1. Gujarat has the largest solar park in India\n2. Kerala has a fully solar powered International Airport\n3. Goa has the largest floating solar photovoltaic project in India.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 84 is (b).\n\nTopic Focus: Special Status & Fifth/Sixth Schedule under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Special Status & Fifth/Sixth Schedule. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Special Status & Fifth/Sixth Schedule",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q85",
+      "questionText": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\n\n1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\n\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 85 is (d).\n\nTopic Focus: Panchayati Raj & Decentralization under Indian Polity.\nThe question assesses precise conceptual clarity and factual understanding of Panchayati Raj & Decentralization. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Polity",
+      "topic": "Panchayati Raj & Decentralization",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q86",
+      "questionText": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+      "options": {
+        "a": "It is generally believed that they are artificial islands made by a country around South China Sea",
+        "b": "China and Japan engage in maritime disputes over these islands in East China Sea",
+        "c": "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities",
+        "d": "Though International Court of Justice declared them as no man’s land, some South-East Asian countries claim them"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 86 is (b).\n\nTopic Focus: Inflation Index Bonds (IIBs) under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Inflation Index Bonds (IIBs). Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Inflation Index Bonds (IIBs)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q87",
+      "questionText": "Consider the following pairs:\n\nCountry:      Important reason for being in the news recently\n\n1. Chad:   Setting up a permanent military base by China\n2. Guinea:   Suspension of Constitution and Government by military\n3. Lebanon:   Severe and prolonged economic depression\n4. Tunisia:   Suspension of Parliament by President\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "c",
+      "explanation": "Correct Answer: Option (C).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 87 is (c).\n\nTopic Focus: Foreign Portfolio Investors & Regulations under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Foreign Portfolio Investors & Regulations. Option (c) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Foreign Portfolio Investors & Regulations",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q88",
+      "questionText": "Consider the following Pairs:\n\nRegion often mentioned in the news:    Country\n\n1. Anatolia:    Turkey\n2. Amhara:     Ethiopia.\n3. Cabo Delgado:     Spain.\n4. Catalonia:     Italy.\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 88 is (b).\n\nTopic Focus: Green Bonds & Sustainable Finance under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Green Bonds & Sustainable Finance. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Green Bonds & Sustainable Finance",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q89",
+      "questionText": "With reference to Indian laws about wildlife protection, consider the following statements :\n\n1. Wild animals are the sole property of the government.\n2. When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.\n3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 89 is (a).\n\nTopic Focus: Ayushman Bharat PM-JAY & Health Coverage under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of Ayushman Bharat PM-JAY & Health Coverage. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "Ayushman Bharat PM-JAY & Health Coverage",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q90",
+      "questionText": "Certain species of which one of the following organisms are well known as cultivators of fungi?",
+      "options": {
+        "a": "Ant",
+        "b": "Cockroach",
+        "c": "crab",
+        "d": "Spider"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 90 is (a).\n\nTopic Focus: EPFO & Pension Funds in India under Indian Economy.\nThe question assesses precise conceptual clarity and factual understanding of EPFO & Pension Funds in India. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Indian Economy",
+      "topic": "EPFO & Pension Funds in India",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q91",
+      "questionText": "Consider the following pairs:\n\nSite of Ashoka’s major rock edicts  – Location in the State of\n\n1. Dhauli   –   Odisha\n2. Erragudi   –  Andhra Pradesh\n3. Jaugada  –  Madhya Pradesh\n4. kalsi   –   Karnataka\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 91 is (b).\n\nTopic Focus: Wildlife Conservation & Species In Situ (Cheetah) under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Wildlife Conservation & Species In Situ (Cheetah). Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Wildlife Conservation & Species In Situ (Cheetah)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q92",
+      "questionText": "Consider the following pairs:\n\nKing:   Dynasty\n\n1. Nannuka:   Chandela.\n2. Jayashakti:   Paramara.\n3. Nagabhata II:   Gurjara-Pratihara.\n4. Bhoja:   Rashtrakuta.\n\nHow many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 92 is (b).\n\nTopic Focus: Aquatic Wildlife & Endangered Fishes (Golden Mahseer) under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Aquatic Wildlife & Endangered Fishes (Golden Mahseer). Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Aquatic Wildlife & Endangered Fishes (Golden Mahseer)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q93",
+      "questionText": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+      "options": {
+        "a": "Sangam poems are devoid of any reference to material culture",
+        "b": "The social classification of Varna was known to Sangam poets",
+        "c": "Sangam poems have no reference to warrior ethic",
+        "d": "Sangam literature refers to magical forces as irrational"
+      },
+      "correctAnswer": "b",
+      "explanation": "Correct Answer: Option (B).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 93 is (b).\n\nTopic Focus: Faunal Diversity & Mammals of Western Ghats under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Faunal Diversity & Mammals of Western Ghats. Option (b) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Faunal Diversity & Mammals of Western Ghats",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q94",
+      "questionText": "“Yogavasistha” was translated into persian by Nizamuddin panipati during the reign of:",
+      "options": {
+        "a": "Akbar",
+        "b": "Humayun",
+        "c": "Shahjahan",
+        "d": "Aurangzeb"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 94 is (a).\n\nTopic Focus: Ecosystem Types & Grasslands (Banni Grassland) under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Ecosystem Types & Grasslands (Banni Grassland). Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Ecosystem Types & Grasslands (Banni Grassland)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q95",
+      "questionText": "The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja?",
+      "options": {
+        "a": "The best means of salvation was devotion",
+        "b": "Vedas are eternal, self-existent and wholly authoritative",
+        "c": "Logical arguments were meant for the highest bliss",
+        "d": "Salvation was to be obtained through meditation"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 95 is (a).\n\nTopic Focus: Atmospheric Pollution & Acid Rain Precursors under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Atmospheric Pollution & Acid Rain Precursors. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Atmospheric Pollution & Acid Rain Precursors",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q96",
+      "questionText": "The Prime Minister recently inaugurated the new Circuit House near Somnath temple at Veraval. Which of the following statements are correct regarding Somnath temple?\n\n1. Somnath Temple is one the Jyotirlinga shrines.\n2. A description of Somnath Temple was given by Al-Biruni.\n3. Pran Pratishtha of Somnath temple (installation of the present day temple) was done by President S. Radhakrishnan.\n\nSelect the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Correct Answer: Option (A).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 96 is (a).\n\nTopic Focus: Thermal Power Generation & Coal Fly Ash under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Thermal Power Generation & Coal Fly Ash. Option (a) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Thermal Power Generation & Coal Fly Ash",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q97",
+      "questionText": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+      "options": {
+        "a": "They protect the environmental allergens. body",
+        "b": "They alleviate the body’s pain and inflammation",
+        "c": "They act as immunosuppressants in the body",
+        "d": "They protect the body from the diseases caused by pathogens"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 97 is (d).\n\nTopic Focus: Marine Pollution & Microplastics under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Marine Pollution & Microplastics. Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Marine Pollution & Microplastics",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q98",
+      "questionText": "Consider the following statements:\n\n1. Other than those made by humans, nanoparticles do not exist in nature.\n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.\n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "3 only",
+        "c": "1 and 2",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 98 is (d).\n\nTopic Focus: Plant Species & Invasive Aliens (Prosopis juliflora) under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Plant Species & Invasive Aliens (Prosopis juliflora). Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Plant Species & Invasive Aliens (Prosopis juliflora)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q99",
+      "questionText": "Consider the following statements: DNA Barcoding can be a tool to:\n\n1. assess the age of a plant or animal.\n2. distinguish among species that look alike.\n3. identify undesirable animal or plant materials in processed foods.\n\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "3 only",
+        "c": "1 and 2",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "Correct Answer: Option (D).\nAccording to the official UPSC Civil Services (Preliminary) Examination 2022 Paper-I (Booklet Series A) answer key released by the Union Public Service Commission, the correct answer for Question 99 is (d).\n\nTopic Focus: Fungi & Symbiotic Relationships (Lichen / Mycorrhiza) under Environment & Ecology.\nThe question assesses precise conceptual clarity and factual understanding of Fungi & Symbiotic Relationships (Lichen / Mycorrhiza). Option (d) represents the verified, constitutionally and scientifically accurate position adopted by the Commission.",
+      "subject": "Environment & Ecology",
+      "topic": "Fungi & Symbiotic Relationships (Lichen / Mycorrhiza)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2022-q100",
+      "questionText": "Consider the following:\n\n1. Carbon monoxide\n2. Nitrogen oxide\n3. Ozone\n4. Sulphur dioxide\n\nExcess of which of the above in the environment is/are cause(s) of acid rain?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 4 only",
+        "c": "4 only",
+        "d": "1, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanation": "Acid rain is primarily caused by atmospheric chemical reactions involving sulfur dioxide (SO2) and nitrogen oxides (NOx) emitted from fossil fuel combustion in motor vehicles and industrial power plants. These gases react with water, oxygen, and oxidants in clouds to form sulfuric acid (H2SO4) and nitric acid (HNO3). Hence, nitrogen oxide (2) and sulphur dioxide (4) are the primary causes.",
+      "subject": "Environment & Ecology",
+      "topic": "Atmospheric Pollution & Causes of Acid Rain",
+      "marks": 2
+    }
+  ]
+}
