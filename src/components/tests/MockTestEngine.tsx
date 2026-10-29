@@ -13,7 +13,7 @@ import { calculateScore, formatTime, formatDuration } from '@/lib/quiz'
 import { addQuizHistory } from '@/lib/bookmarks'
 import type { MockTest, MockTestQuestion, QuizQuestionState, QuizResult, QuizAnswer } from '@/types'
 
-// ─── Cutoff Data for UPSC Prelims 2022 GS-1 ──────────────────────────────────
+// ─── Cutoff Data for UPSC Prelims GS-1 ────────────────────────────────────────
 const UPSC_2022_CUTOFFS = [
   { category: 'General (UR)', cutoff: 88.22 },
   { category: 'OBC', cutoff: 87.54 },
@@ -22,6 +22,44 @@ const UPSC_2022_CUTOFFS = [
   { category: 'ST', cutoff: 69.35 },
   { category: 'PwBD-1', cutoff: 49.84 },
 ]
+
+const UPSC_2026_CUTOFFS = [
+  { category: 'General (UR)', cutoff: 88.00 },
+  { category: 'OBC', cutoff: 86.50 },
+  { category: 'EWS', cutoff: 82.00 },
+  { category: 'SC', cutoff: 73.50 },
+  { category: 'ST', cutoff: 68.50 },
+  { category: 'PwBD-1', cutoff: 48.00 },
+]
+
+function getCutoffInfo(slug: string, totalMarks: number) {
+  if (slug.includes('2026')) {
+    return {
+      title: 'Estimated UPSC 2026 Prelims Cutoff Benchmark',
+      description: 'Based on paper difficulty analysis, the estimated qualifying score for General (UR) is projected around 88.00 marks (safe zone: 92+).',
+      generalCutoff: 88.00,
+      cutoffs: UPSC_2026_CUTOFFS,
+    }
+  }
+  if (slug.includes('2022')) {
+    return {
+      title: 'Official UPSC 2022 Prelims Cutoff Benchmark',
+      description: 'The official UPSC CSE 2022 General Studies Paper-I qualifying cutoff was 88.22 marks for General (UR).',
+      generalCutoff: 88.22,
+      cutoffs: UPSC_2022_CUTOFFS,
+    }
+  }
+  return {
+    title: 'Qualifying Benchmark (45% Threshold)',
+    description: `Standard qualifying benchmark for this test is 45% (${(totalMarks * 0.45).toFixed(1)} marks).`,
+    generalCutoff: totalMarks * 0.45,
+    cutoffs: [
+      { category: 'Target Score (50%)', cutoff: totalMarks * 0.5 },
+      { category: 'Benchmark (45%)', cutoff: totalMarks * 0.45 },
+      { category: 'Minimum (40%)', cutoff: totalMarks * 0.4 },
+    ],
+  }
+}
 
 // ─── Quiz State Types ────────────────────────────────────────────────────────
 interface QuizState {
@@ -617,8 +655,8 @@ function ResultsEvaluationView({
     return map
   }, [test.questions, answers])
 
-  const generalCutoff = 88.22
-  const clearedCutoff = result.finalScore >= generalCutoff
+  const cutoffInfo = useMemo(() => getCutoffInfo(test.slug, test.totalMarks), [test.slug, test.totalMarks])
+  const clearedCutoff = result.finalScore >= cutoffInfo.generalCutoff
 
   const filteredQuestions = useMemo(() => {
     return test.questions.filter((q) => {
@@ -678,7 +716,7 @@ function ResultsEvaluationView({
           <div className="md:col-span-2 rounded-2xl p-6 bg-slate-50 border border-slate-200 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between mb-2">
-                <span className="text-xs font-bold uppercase tracking-wider text-slate-500">Official UPSC 2022 Prelims Cutoff Benchmark</span>
+                <span className="text-xs font-bold uppercase tracking-wider text-slate-500">{cutoffInfo.title}</span>
                 <span className={cn(
                   'px-2.5 py-0.5 rounded-full text-xs font-bold',
                   clearedCutoff ? 'bg-green-100 text-green-800' : 'bg-amber-100 text-amber-800'
@@ -687,19 +725,19 @@ function ResultsEvaluationView({
                 </span>
               </div>
               <p className="text-sm text-slate-600 mb-4">
-                The official UPSC CSE 2022 General Studies Paper-I qualifying cutoff was <strong>88.22 marks</strong> for General (UR).
+                {cutoffInfo.description}
               </p>
             </div>
 
             <div className="grid grid-cols-3 sm:grid-cols-5 gap-2 text-center text-xs">
-              {UPSC_2022_CUTOFFS.slice(0, 5).map((c) => {
+              {cutoffInfo.cutoffs.slice(0, 5).map((c) => {
                 const passed = result.finalScore >= c.cutoff
                 return (
                   <div key={c.category} className={cn(
                     'p-2 rounded-lg border',
                     passed ? 'bg-green-50/70 border-green-200 text-green-900' : 'bg-white border-slate-200 text-slate-700'
                   )}>
-                    <div className="font-bold">{c.cutoff}</div>
+                    <div className="font-bold">{typeof c.cutoff === 'number' ? c.cutoff.toFixed(1) : c.cutoff}</div>
                     <div className="text-[10px] text-slate-500 mt-0.5">{c.category}</div>
                   </div>
                 )

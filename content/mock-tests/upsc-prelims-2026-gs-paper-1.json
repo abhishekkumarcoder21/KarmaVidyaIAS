@@ -1,0 +1,1529 @@
+{
+  "title": "UPSC CSE Prelims 2026: General Studies Paper-I",
+  "slug": "upsc-prelims-2026-gs-paper-1",
+  "description": "Official UPSC Civil Services (Preliminary) Examination 2026 GS Paper-1 complete mock test. 100 questions, 200 marks, 2 hours duration. Sourced from UnlockIAS (unlockias.in).",
+  "subject": "GS Paper 1 (Full Length)",
+  "paper": "GS1",
+  "durationMinutes": 120,
+  "totalMarks": 200,
+  "negativeMarking": true,
+  "negativeMarkingValue": 0.66,
+  "difficulty": "Hard",
+  "tags": [
+    "UPSC Prelims 2026",
+    "General Studies 1",
+    "Full Length Mock",
+    "Official Paper",
+    "Civil Services Exam"
+  ],
+  "status": "published",
+  "instructions": [
+    "This test contains 100 questions from the official UPSC CSE Prelims 2026 General Studies Paper-I.",
+    "Total duration is 120 minutes (2 hours). Maximum marks: 200.",
+    "Each correct answer carries 2 marks. Wrong answers incur a penalty of 0.66 marks (1/3 of 2 marks).",
+    "Unattempted questions carry 0 marks with no penalty.",
+    "Note: Q89 has been cancelled by UPSC — full marks (2) are awarded to all candidates for Q89."
+  ],
+  "questions": [
+    {
+      "id": "upsc-2026-q1",
+      "questionText": "Consider the following assertion : In the Pleistocene period either the Yamuna once flowed into the Indus, or the Sutlej flowed into the Yamuna and one major tributary of either had shifted from the Ganga to the Indus or vice versa. Which of the following is/are the basis of the above assertion ? 1. The Nadi-Sukta of the Rigveda 2. The explorations of the Sutlej and the Yamuna by Robert Bruce Foote 3. The presence of the same species of dolphins in both the Indus and the Ganga river systems Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "1 and 2",
+        "d": "3"
+      },
+      "correctAnswer": "d",
+      "explanation": "The assertion about the Yamuna once flowing into the Indus is supported by the presence of the same species of river dolphins (Platanista gangetica) in both the Indus and Ganga systems, suggesting past connectivity. The Nadi-Sukta mentions rivers but does not assert this shift. Robert Bruce Foote is noted for discovering Palaeolithic tools, not this river exploration.",
+      "subject": "Ancient History",
+      "topic": "Vedic Period",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q2",
+      "questionText": "What does an empty seat represent in early Buddhist iconography ?",
+      "options": {
+        "a": "The meditation of the Buddha",
+        "b": "The Buddha's First Sermon",
+        "c": "The Buddha's Mahaparinibbana",
+        "d": "The Buddha's Mahabhinishkramana"
+      },
+      "correctAnswer": "a",
+      "explanation": "In early Buddhist aniconic art the Buddha was represented by symbols. An empty seat (simhasana) signifies the meditating Buddha at Bodh Gaya. The Dharma Chakra represents the First Sermon; the Parinibbana is symbolised by a stupa; the Mahabhinishkramana (Great Renunciation) is shown by a riderless horse.",
+      "subject": "Art & Culture",
+      "topic": "Sculpture & Iconography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q3",
+      "questionText": "Which of the following pairs of ancient and modern names of rivers is/are correctly matched ? 1. Vitasta : Chenab 2. Asikni : Jhelum 3. Parushni : Ravi 4. Yavyavati : Beas Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "3 and 4",
+        "c": "3 only",
+        "d": "4 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "Vitasta = Jhelum; Asikni = Chenab; Parushni = Ravi (correct); Yavyavati is identified with the Zhob river, not the Beas (Vipasa = Beas). Only pair 3 (Parushni: Ravi) is correctly matched.",
+      "subject": "Ancient History",
+      "topic": "Vedic Period",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q4",
+      "questionText": "Which of the following statements on the Amaravati Stupa and its relief sculpture is/are correct ? 1. It was located in the lower Krishna valley. 2. In India, it was next only to the Sanchi Stupa in size. 3. The Amaravati school of sculpture made a lasting impact on the later South Indian sculpture, and its products were carried to Sri Lanka and South-east Asia. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement 1 is correct (lower Krishna valley, Andhra Pradesh). Statement 2 is incorrect — Amaravati was actually larger than Sanchi in its prime. Statement 3 is correct — Amaravati art influenced later South Indian styles and spread to Sri Lanka and Southeast Asia.",
+      "subject": "Art & Culture",
+      "topic": "Sculpture & Iconography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q5",
+      "questionText": "Which of the following pairs of the king and his dynasty in early historical Tamilakam is/are not correctly matched ? 1. Senguttuvan : Chera 2. Udiyanjeral : Chola 3. Nedunjeliyan : Pandya Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Senguttuvan was a Chera king (pair 1 correct). Udiyanjeral (Udiyan Cheralathan) was also a Chera king, not Chola (pair 2 incorrect). Nedunjeliyan was a Pandya king (pair 3 correct). Only pair 2 is wrongly matched.",
+      "subject": "Ancient History",
+      "topic": "Mahajanapadas & Early Kingdoms",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q6",
+      "questionText": "Which of the following factors contributed to the formation of the Forward Bloc by Subhas Chandra Bose in 1939 ? 1. Bose failed to win the confidence of Mahatma Gandhi. 2. The Congress Left was disunited and failed to support Bose. 3. The Communists did not support Bose in his endeavours. 4. The supporters of M.N. Roy and socialist leaders like Jayaprakash Narayan preferred Congress unity to supporting Bose. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1, 2 and 4",
+        "c": "1, 3 and 4",
+        "d": "2 and 4 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "After Bose won re-election as Congress president, Gandhi's withdrawal of support (factor 1), the disunity of the Congress Left (factor 2), and M.N. Roy's supporters and JP Narayan preferring Congress unity (factor 4) all contributed to the formation of Forward Bloc. The Communists had a complex, not uniformly opposing, stance.",
+      "subject": "Modern History",
+      "topic": "Key Personalities & Ideologies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q7",
+      "questionText": "Consider the following statements regarding the British policy in Awadh immediately after its annexation in 1856 : 1. The taluqdars were dispossessed of their estates but allowed to retain their arms and forts. 2. A Summary Revenue Settlement was made in 1856 assuming that the taluqdars were outsiders. 3. The British believed in taking revenue directly from the peasants by removing the taluqdars. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "2 and 3 only",
+        "b": "1 and 3 only",
+        "c": "1, 2 and 3",
+        "d": "2 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "After 1856 annexation the taluqdars lost their estates AND their arms and forts — not allowed to retain them (statement 1 wrong). The Summary Settlement of 1856 treated taluqdars as outsiders (statement 2 correct). The British aimed to collect revenue directly from peasants by removing taluqdars as intermediaries (statement 3 correct).",
+      "subject": "Modern History",
+      "topic": "Advent Of Europeans & British Expansion",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q8",
+      "questionText": "Consider the following assertion : The genesis of political alliances based on community lay in the very nature of the Montague-Chelmsford Reforms, 1919. Which of the following statements support/supports the above assertion ? 1. Reforms retained and extended the principle of separate electorates. 2. Separate electorates were supposed to counter Indian nationalism, which was growing stronger. 3. Deprived classes rallied around the favours inherent in separate electorates. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "All three statements support the assertion. The 1919 Reforms extended separate electorates to Sikhs, Christians, Anglo-Indians and Europeans (1). Separate electorates were a divide-and-rule strategy against rising nationalism (2). Deprived communities were also drawn into this framework (3).",
+      "subject": "Modern History",
+      "topic": "Constitutional Developments & British Plans (1909-1947)",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q9",
+      "questionText": "Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the :",
+      "options": {
+        "a": "Agra Gharana",
+        "b": "Gwalior Gharana",
+        "c": "Patiala Gharana",
+        "d": "Jaipur-Atrauli Gharana"
+      },
+      "correctAnswer": "d",
+      "explanation": "Pandit Mallikarjun Mansur (1910–1992) was a renowned exponent of the Jaipur-Atrauli Gharana, known for rhythmic precision, complex taans and intricate compositions. He received the Padma Bhushan (1970) and Padma Vibhushan (1987).",
+      "subject": "Art & Culture",
+      "topic": "Music",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q10",
+      "questionText": "In which one among the following texts does the term kshetra-patni ('mistress of the field') originate ?",
+      "options": {
+        "a": "Rigveda",
+        "b": "Atharvaveda",
+        "c": "Ashtadhyayi",
+        "d": "Arthashastra"
+      },
+      "correctAnswer": "b",
+      "explanation": "The term 'kshetra-patni' (mistress of the field, the presiding deity of the agricultural field) originates in the Atharvaveda, which contains hymns and charms related to everyday life, agriculture, and social practices.",
+      "subject": "Ancient History",
+      "topic": "Society, Law & Administration",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q11",
+      "questionText": "Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music ?",
+      "options": {
+        "a": "Nat Bhairavi",
+        "b": "Kamavardhini",
+        "c": "Hanumatodi",
+        "d": "Dheera Shankarabharanam"
+      },
+      "correctAnswer": "d",
+      "explanation": "Raga Bilawal in Hindustani music corresponds to Raga Dheera Shankarabharanam (Shankarabharanam) in Carnatic music — both use all shuddha (natural) swaras equivalent to the Western major scale. Shankarabharanam is the 29th melakarta.",
+      "subject": "Art & Culture",
+      "topic": "Music",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q12",
+      "questionText": "The artificially fixed rupee-sterling exchange rate prescribed by the Hilton-Young Commission (1926) was adopted by the British Government for which one of the following reasons ?",
+      "options": {
+        "a": "Aiding the flow of remittances from India and maintaining India's creditworthiness",
+        "b": "Providing support to Indian importers",
+        "c": "Encouraging export of cotton produce from India",
+        "d": "Preventing depreciation of the Rupee in terms of gold"
+      },
+      "correctAnswer": "a",
+      "explanation": "The Hilton-Young Commission (1926) fixed the rupee at 1s 6d primarily to facilitate remittance of Home Charges from India to Britain and maintain India's creditworthiness. This overvalued rate made Indian exports expensive, benefiting British trade.",
+      "subject": "Modern History",
+      "topic": "British Administration & Economic Policies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q13",
+      "questionText": "Consider the following statements : I. Pali texts contain the first definite references to coins, e.g., kahapana, nikkha, kamsa, and kakanika. II. The literary evidence from Pali texts is corroborated by archaeological evidence of punch-marked coins from many sites, most of them made of silver. The above statements have been associated with which of the following ? 1. Emergence of urban life 2. Transition to money economy Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Pali texts' references to coins (kahapana, nikkha, kamsa, kakanika) and the archaeological discovery of silver punch-marked coins both evidence the second urbanisation (6th–4th century BCE) and the transition from barter to a money economy — supporting both conclusions.",
+      "subject": "Ancient History",
+      "topic": "Trade & Economy",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q14",
+      "questionText": "Which of the following temples has/have a Nagara-style shikhara ? 1. Malegitti Shivalaya, Badami 2. Huchimalligudi Temple, Aihole 3. Dashavatara Temple, Deogarh 4. Virupaksha Temple, Pattadakal Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "3 only",
+        "d": "3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanation": "Nagara (curvilinear shikhara) temples: Huchimalligudi, Aihole (Rekha Prasada Nagara style) and Dashavatara, Deogarh (Gupta-period Nagara) both qualify. Virupaksha, Pattadakal is Dravida style. Malegitti Shivalaya is Early Chalukya but classified differently.",
+      "subject": "Art & Culture",
+      "topic": "Architecture & World Heritage",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q15",
+      "questionText": "Among the four main forms of existence of life recognized in Jainism, which one of the following is not included ?",
+      "options": {
+        "a": "Deva (gods)",
+        "b": "Yaksha (demi-gods)",
+        "c": "Manushya (humans)",
+        "d": "Tiryancha (animals and plants)"
+      },
+      "correctAnswer": "b",
+      "explanation": "The four gatis (states of existence) in Jainism are Deva (gods), Manushya (humans), Tiryancha (animals/plants), and Naraki (hell beings). Yakshas are nature spirits but do not form one of the four main gatis.",
+      "subject": "Art & Culture",
+      "topic": "Philosophy & Religion",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q16",
+      "questionText": "The Hallisalasya painting in the Bagh Caves represents :",
+      "options": {
+        "a": "A joyous folk dance",
+        "b": "Buddha in a meditative pose",
+        "c": "The depiction of Shiva and Parvati on Kailasha",
+        "d": "Samudramanthan (Churning of the Ocean)"
+      },
+      "correctAnswer": "a",
+      "explanation": "The Hallisalasya painting in Bagh Caves (Gupta period, Madhya Pradesh) depicts a joyous circular folk dance (hallisaka) performed by women — not a Buddhist or Shaiva scene.",
+      "subject": "Art & Culture",
+      "topic": "Painting & Visual Arts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q17",
+      "questionText": "Consider the following statements relating to the use of the place-value system in India : 1. The earliest epigraphic use of the place-value system in India is found in the Mankani plates from Gujarat (AD 595-596). 2. In the ninth century, place-values become general in inscriptions all over India. 3. The place-values have been found in Sanskrit inscriptions in South-east Asia as early as the seventh century. Which of the statements given above are correct ?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanation": "The Mankani copper plates (AD 595–596) are the earliest epigraphic use of the decimal place-value system in India. By the 9th century place-values were common across India. Sanskrit inscriptions in Southeast Asia (Cambodia etc.) show this system as early as the 7th century CE.",
+      "subject": "Ancient History",
+      "topic": "Science & Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q18",
+      "questionText": "Consider the following statements about the archaeological findings in Harappan towns : I. There is wide occurrence of spindle-whorls in the houses but absence of spinning wheels. II. Weights and measurement scales, complete with graduations have been discovered. III. There are houses built in large part with baked bricks, around relatively spacious courtyards, with their own wells, bathing platforms, and large rooms. Which of the following inferences can be drawn from the above statements ? 1. Statement I suggests that spinning was a laborious activity done at home. 2. Statement II suggests the extent of the scientific knowledge that the Harappans possessed. 3. Statement III suggests the emergence of a common property system. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Spindle-whorls (1) suggest home-based manual spinning (inference 1 valid). Standardised weights and graduated scales (2) indicate scientific metrology knowledge (inference 2 valid). Houses with private wells and rooms (3) suggest private property, not common property (inference 3 invalid).",
+      "subject": "Ancient History",
+      "topic": "Indus Valley Civilization",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q19",
+      "questionText": "Which one of the following statements about the Eka Movement and Bardoli Satyagraha is correct ?",
+      "options": {
+        "a": "The Eka Movement was throughout supported and organized by the Congress while Bardoli Satyagraha was initially independent of Congress influence and was only in the last stages supported by the Congress.",
+        "b": "The Eka Movement was provided leadership by the taluqdars of Awadh, whereas the Bardoli Satyagraha was a movement of the landless labourers.",
+        "c": "The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+        "d": "The Eka Movement was located in the Varanasi and Mirzapur districts of the present-day U.P., while the Bardoli Satyagraha took place in Saurashtra."
+      },
+      "correctAnswer": "c",
+      "explanation": "Bardoli Satyagraha (1928), led by Sardar Patel, opposed a 30% land revenue enhancement. The Eka Movement (1921–22) in Awadh opposed excessive rent extraction and illegal levies by landlords. Option C accurately contrasts both movements.",
+      "subject": "Modern History",
+      "topic": "Peasant, Tribal & Labour Movements",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q20",
+      "questionText": "Consider the following statements about the Rigvedic period : I. Irrigation from wells allowed agriculture to expand away from flood plains and strips on river margins into the present Punjab and Haryana plains having underground water levels reasonably close to the surface. II. Draught-animal power was employed to draw up water out of the wells. Which of the following information support/supports the above statements ? 1. There is evidence in the Rigveda of the use of ashma chakra (stone pulley wheel) and ahava (strapped wooden pails) to draw up water. 2. Mention has been made in the Rigveda of the use of implements like parashu/kulisha (axe) and datra/sreni (sickle). 3. There is a history of the use of ox, even before the Rigveda, for ploughing the land and pulling the carts. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 3",
+        "c": "1 and 3 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "The Rigveda's references to ashma chakra (stone pulley) and ahava (leather buckets) support Statement I on well irrigation. The historical use of oxen before the Rigvedic period supports Statement II on draught-animal power for water lifting. Information 2 (axe/sickle) does not support either statement.",
+      "subject": "Ancient History",
+      "topic": "Vedic Period",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q21",
+      "questionText": "Tungurahua Volcano, which was declared a Global Geopark by UNESCO in 2025, is situated in which one among the following countries ?",
+      "options": {
+        "a": "Ecuador",
+        "b": "Peru",
+        "c": "Bolivia",
+        "d": "Colombia"
+      },
+      "correctAnswer": "a",
+      "explanation": "Tungurahua is an active stratovolcano in Ecuador (Andean highlands). Its name means 'Throat of Fire' in Quechua. It was designated a UNESCO Global Geopark in 2025.",
+      "subject": "Geography",
+      "topic": "Physical Geography & Geomorphology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q22",
+      "questionText": "With reference to Madhav National Park, which of the following statements is/are correct ? 1. It was declared a Tiger Reserve in India in 2025. 2. Sakhya Sagar, which is designated as a Ramsar Site, is situated within this National Park. 3. Its area is shared between Madhya Pradesh and Rajasthan. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Madhav National Park (Shivpuri, MP) was declared India's 58th Tiger Reserve in 2025 (statement 1 correct). Sakhya Sagar lake within it is a Ramsar site (statement 2 correct). The park is entirely within Madhya Pradesh, not shared with Rajasthan (statement 3 incorrect).",
+      "subject": "Environment & Ecology",
+      "topic": "Protected Areas & Wildlife",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q23",
+      "questionText": "With reference to the climate of Andaman and Nicobar Islands, which of the following statements is/are correct ? 1. The climate can be defined as a humid, tropical coastal climate. 2. It receives rainfall from both South-west monsoon and North-east monsoon. 3. Maximum precipitation is between December and May. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Andaman and Nicobar Islands have a humid tropical coastal climate (1 correct). They receive rain from both the SW monsoon (May–Oct) and NE monsoon (Oct–Dec) (2 correct). Maximum precipitation is during the SW monsoon period (May–Sep), NOT December–May (3 incorrect).",
+      "subject": "Geography",
+      "topic": "Atmosphere & Climatology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q24",
+      "questionText": "Which of the following geographical features or phenomena is/are associated with the Peninsular Block of India ? 1. Submergence of parts of the western coast due to tectonic activity 2. Presence of residual mountain ranges such as the Veliconda hills and Mahendragiri hills 3. Deep, V-shaped river valleys formed by fast-flowing rivers Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Konkan coast was formed by tectonic submergence (1 correct). The Peninsular Block has residual ranges like Veliconda and Mahendragiri (2 correct). Peninsular rivers are old and flow over hard crystalline rocks, forming broad shallow valleys, NOT deep V-shaped valleys (3 incorrect).",
+      "subject": "Geography",
+      "topic": "Indian Physical Geography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q25",
+      "questionText": "Consider the following statements with reference to the Sagarmala Programme of the Government of India : I. The Sagarmala Programme seeks to achieve port-led economic growth through cost-effective and sustainable coastal infrastructure. II. The success of the Sagarmala Programme is reflected in significant growth in coastal and inland waterway shipping, along with improved global port rankings. III. Sagarmala 2.0 aims to position India as a global maritime innovation hub aligned with Atmanirbhar Bharat and Viksit Bharat 2047 visions. Which of the following relationships among the above statements is/are correct ? 1. Statement II validates the effectiveness of the strategies envisioned in statement I. 2. Statement III extends the objectives of statement I by embedding them into a future-oriented innovation framework. 3. Statement I contradicts statement III by focusing only on traditional infrastructure instead of modern innovation. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Statement II (growth in coastal shipping and port rankings) validates the port-led growth strategy of Statement I (relationship 1 correct). Statement III (Sagarmala 2.0 as innovation hub) extends Statement I's objectives (relationship 2 correct). Statement I does NOT contradict Statement III — they are complementary (relationship 3 incorrect).",
+      "subject": "Indian Economy",
+      "topic": "Infrastructure & Industry",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q26",
+      "questionText": "Consider the following statements about Rhynchostylis retusa (Foxtail orchid) : 1. It is an epiphytic orchid. 2. The species is endemic to North-east India. 3. It is the State flower of Arunachal Pradesh and Assam. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 3",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Rhynchostylis retusa (Foxtail orchid) is an epiphytic orchid (1 correct). It is NOT endemic to northeast India — found across South and Southeast Asia (2 incorrect). It is the State flower of both Arunachal Pradesh and Assam (3 correct).",
+      "subject": "Environment & Ecology",
+      "topic": "Biodiversity & Conservation",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q27",
+      "questionText": "Which one of the following statements with regard to the Moidams, built by the Tai-Ahom kingdom and inscribed as a World Heritage Site by UNESCO, is/are correct ? 1. They acted as army fortresses. 2. They were recreation centres of the Royals and Nobles. 3. They were burial grounds of the Royals and Nobles. 4. They were battle drill centres of the Royals and Nobles. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 3",
+        "c": "3 only",
+        "d": "2 and 4"
+      },
+      "correctAnswer": "c",
+      "explanation": "Moidams are the burial mounds (tumuli) of the Tai-Ahom royals and nobles. The Charaideo Moidams were inscribed as a UNESCO World Heritage Site in 2024. They served as mausoleums, not fortresses, recreation centres or drill grounds.",
+      "subject": "Art & Culture",
+      "topic": "Architecture & World Heritage",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q28",
+      "questionText": "At the United Nations Ocean Conference (UNOC) held in June, 2025 in France, the Food and Agricultural Organization (FAO) of the United Nations demonstrated its leading voice on marine and ocean issues, especially on sustainable fisheries and aquaculture for resilient livelihood and Blue Transformation. Which of the following combinations about the Four Betters proposed by FAO for Blue Transformation is correct ?",
+      "options": {
+        "a": "Better production, better nutrition, better environment and better ocean",
+        "b": "Better production, better nutrition, better environment and better life",
+        "c": "Better coral reefs, better nutrition, better environment and better life",
+        "d": "Better estuaries, better nutrition, better environment and better mangrove vegetation"
+      },
+      "correctAnswer": "b",
+      "explanation": "FAO's Blue Transformation is guided by the 'Four Betters': Better Production, Better Nutrition, Better Environment, and Better Life — aimed at sustainable aquatic food systems and improved livelihoods.",
+      "subject": "Environment & Ecology",
+      "topic": "International Environmental Treaties & Summits",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q29",
+      "questionText": "Which of the following statements with reference to Lake Turkana is/are correct ? 1. It is the largest desert lake in the world. 2. The lake is situated in South Sudan along the eastern fringe of the Sahara desert. 3. The lake is listed as a UNESCO World Heritage Site and is also referred to as the Jade Sea. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Lake Turkana (Kenya/Ethiopia, Eastern Rift Valley) is the world's largest permanent desert lake and alkaline lake (1 correct). It is NOT in South Sudan near the Sahara (2 incorrect). It is a UNESCO World Heritage Site known as the 'Jade Sea' (3 correct).",
+      "subject": "Geography",
+      "topic": "World Physical Geography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q30",
+      "questionText": "Which one of the following is the first Plan Vivo certified Reducing Emissions from Deforestation and Forest Degradation (REDD+) project in India ?",
+      "options": {
+        "a": "Uttarakhand REDD+ project",
+        "b": "ICFRE-ICIMOD Transboundary REDD+ project in North-Eastern Himalayas",
+        "c": "Khasi Hills Community REDD+ project",
+        "d": "Sikkim Mamley Kamrang Community REDD+ project"
+      },
+      "correctAnswer": "c",
+      "explanation": "The Khasi Hills Community REDD+ project in Meghalaya is India's first Plan Vivo certified REDD+ project, implemented by local Khasi communities to reduce deforestation and improve livelihoods through carbon credits.",
+      "subject": "Environment & Ecology",
+      "topic": "Sustainable Agriculture & Forestry",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q31",
+      "questionText": "Consider the following statements with reference to India's response to climate change : I. India's Long-Term Low Emission Development Strategy (LT-LEDS) is a crucial tool for achieving net-zero emissions by 2070. II. India's 4th Biennial Update Report (BUR-4) submitted in December, 2024 recorded around 8% decrease in Greenhouse gas emissions in 2020 over 2019. III. Climate-resilient development necessarily depends on quick and short-term achievement of emission reduction targets. Which of the following relationships among the above statements is/are correct ? 1. Statement I is empirically supported by statement II. 2. Statement III contradicts the approach implicit in statement I. 3. Statement I and statement III together establish the premise of long-term sustainability. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "BUR-4 showing an 8% GHG decrease in 2020 empirically supports LT-LEDS as a tool for net-zero by 2070 (relationship 1 correct). Statement III's emphasis on short-term targets contradicts LT-LEDS's long-term approach (relationship 2 correct). III does not support, but undermines, long-term sustainability (relationship 3 incorrect).",
+      "subject": "Environment & Ecology",
+      "topic": "Climate Change & Greenhouse Gases",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q32",
+      "questionText": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct ? 1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List. 2. They have specialized brachiation and can easily swing between trees. 3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Western Hoolock Gibbon (Hoolock hoolock) is Endangered (IUCN). Gibbon Wildlife Sanctuary, Assam is a key habitat (1 correct). They are specialised brachiators swinging with their arms (2 correct). They are small, slender apes — not heavy-built like gorillas (3 incorrect).",
+      "subject": "Environment & Ecology",
+      "topic": "Protected Areas & Wildlife",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q33",
+      "questionText": "Which of the following best explain(s) the rationale for protecting mangrove ecosystems in the context of climate resilience ? 1. Mangroves reduce tidal energy and store freshwater, making them ideal sites for paddy cultivation in saline estuarine belts. 2. Their salt-sensitive roots filter seawater, making mangroves key to converting coastal land into freshwater aquaculture zones. 3. By withstanding tidal surges and offering biomass resources, mangroves function both as natural bio-shields and livelihood bases for rural communities. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Mangroves do reduce tidal energy but do NOT store freshwater — they thrive in saline/brackish water (1 incorrect). Mangrove roots tolerate saltwater (they are NOT salt-sensitive) (2 incorrect). Mangroves function as natural bio-shields against storm surges and provide livelihoods (3 correct).",
+      "subject": "Environment & Ecology",
+      "topic": "Ecosystems & Ecology Concepts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q34",
+      "questionText": "In what way(s) does the Vizhinjam International Seaport represent a structural shift in India's maritime trade and logistics policy ? 1. By functioning exclusively as a domestic cargo hub to reduce reliance on coastal shipping and eliminate the need for foreign collaborations. 2. By focusing primarily on passenger cruise tourism and heritage shipping to increase Kerala's profile as a maritime heritage destination. 3. By leveraging its natural deep draft and strategic location to reduce dependence on foreign trans-shipment ports, enhance revenue retention, and reposition India in regional maritime trade. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Vizhinjam's structural significance lies in its natural deep draft (~18–20 m) and proximity to international shipping lanes, enabling India to develop its own trans-shipment hub, reduce dependence on Colombo/Singapore, and retain revenue (3 correct). It is not exclusively domestic (1 wrong) and not primarily for cruise tourism (2 wrong).",
+      "subject": "Indian Economy",
+      "topic": "Infrastructure & Industry",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q35",
+      "questionText": "Identify the river of the Indian sub-continent on the basis of the following information : 1. It has an antecedent drainage system. 2. It flows through three countries. 3. It originates in the Tibetan Plateau and is an important river for irrigation. 4. It does not form distributaries. Select the answer from the following :",
+      "options": {
+        "a": "Brahmaputra",
+        "b": "Indus",
+        "c": "Sutlej",
+        "d": "Teesta"
+      },
+      "correctAnswer": "c",
+      "explanation": "The Sutlej fits all clues: antecedent drainage (predates Himalayas), flows through Tibet-India-Pakistan (3 countries), originates at Lake Rakshastal (Tibetan Plateau), vital for Punjab irrigation, and joins the Chenab without forming distributaries.",
+      "subject": "Geography",
+      "topic": "Indian Rivers & Water Resources",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q36",
+      "questionText": "Which of the following with reference to Indian States is/are not correct ? 1. Uttar Pradesh shares its boundary with the highest number of other Indian States. 2. Rajasthan shares the longest international border among all Indian States. 3. Sikkim is the only State that shares its boundary with just one other Indian State. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "UP shares boundaries with 8 states — most in India (statement 1 correct). Rajasthan's international border (with Pakistan) is one of the longest but not definitively the longest among all states (statement 2 debatable/incorrect). Sikkim borders only West Bengal as its Indian state neighbor — but other states may also border only one Indian state (statement 3 incorrect/debatable). Hence 2 and 3 are 'not correct'.",
+      "subject": "Geography",
+      "topic": "Indian Political Geography & Borders",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q37",
+      "questionText": "Which of the following statements with regard to the arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia is/are correct ? 1. It showcases how sustained local conservation efforts can contribute to the arrival and protection of international migratory birds. 2. It reflects the global success of advanced tracking technologies that guide migratory birds back to their stopover sites. 3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable habitat changes. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "The conservation of Amur Falcons at Doyang Lake, Nagaland is a landmark community conservation success — after the local community stopped mass hunting (1 correct). Tracking technologies study migration but do not guide birds (2 incorrect). Amur Falcons are migratory visitors, not permanent residents (3 incorrect).",
+      "subject": "Environment & Ecology",
+      "topic": "Protected Areas & Wildlife",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q38",
+      "questionText": "Which among the following is/are the objective(s) of the Rainfed Area Development (RAD) initiative under the National Mission for Sustainable Agriculture (NMSA) ? 1. Encouraging monoculture in rainfed areas 2. Increasing rice cultivation in irrigated regions 3. Enhancing productivity and minimising climatic risks through Integrated Farming Systems (IFS) Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Rainfed Area Development (RAD) under NMSA promotes Integrated Farming Systems (IFS) combining crops, livestock, fisheries and agroforestry to diversify income and minimise climate risk in rainfed areas. It opposes monoculture (1 wrong) and is not about irrigated rice cultivation (2 wrong).",
+      "subject": "Indian Economy",
+      "topic": "Agriculture & Rural Development",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q39",
+      "questionText": "Which of the following is/are the most significant implication(s) of obtaining Oeko-Tex certification for Eri Silk in the global textile industry ? 1. It allows Indian exporters to compete in high-end markets that prioritise chemical-free products. 2. It confirms that Eri Silk meets international safety, environmental, and quality standards, enabling its entry into premium eco-conscious markets. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Oeko-Tex Standard 100 certification allows Eri Silk exporters to access premium markets that prioritise chemical-free products (1 correct) and confirms compliance with international safety, environmental and quality standards for eco-conscious markets (2 correct).",
+      "subject": "Indian Economy",
+      "topic": "International Trade & WTO",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q40",
+      "questionText": "Ships from which of the following countries have to cross the Strait of Hormuz to reach out to the Indian Ocean ? 1. Bahrain 2. Syria 3. Qatar 4. Egypt Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 3",
+        "c": "2 and 3",
+        "d": "3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanation": "Bahrain and Qatar lie within the Persian Gulf and must cross the Strait of Hormuz to reach the Indian Ocean. Syria (Mediterranean coast) and Egypt (Mediterranean/Red Sea) do not use the Strait of Hormuz.",
+      "subject": "Geography",
+      "topic": "World Political Geography & Borders",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q41",
+      "questionText": "Match List I with List II and select the answer using the code given below the Lists : List I (INTERPOL Notice) A. Silver Notice B. Blue Notice C. Black Notice D. Green Notice List II (Description) 1. To seek information on unidentified bodies 2. To collect additional information about a person's identity, location, or activities in relation to a criminal investigation 3. To provide warning about a person's criminal activities, where the person is considered to be a possible threat to public safety 4. To identify and trace criminal assets Code : A B C D",
+      "options": {
+        "a": "3 1 2 4",
+        "b": "3 2 1 4",
+        "c": "4 2 1 3",
+        "d": "4 1 2 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "INTERPOL Notices: Silver (A) = identify/trace criminal assets (4); Blue (B) = collect information on a person in a criminal investigation (2); Black (C) = seek information on unidentified bodies (1); Green (D) = warn about person's criminal activities/public safety threat (3). A-4, B-2, C-1, D-3.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q42",
+      "questionText": "Which of the following statements in relation to NIRANTAR (National Institute for Research and Application of Natural Resources to Transform, Adapt and Build Resilience), a platform of institutions under the Ministry of Environment, Forest and Climate Change, is/are correct ? 1. Ecosystem Survey and Analysis is a vertical under this platform, the lead institute of which is Botanical Survey of India, Kolkata. 2. Research and Management of Ecosystem Service is a vertical under this platform, the lead institute of which is Central Zoo Authority, New Delhi. 3. Capacity Development Support is a vertical under this platform, the lead institute of which is Indian Institute of Forest Management, Bhopal. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1 and 3 only",
+        "c": "2 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "Under NIRANTAR platform: Ecosystem Survey and Analysis — lead institute: BSI, Kolkata (1 correct). Research and Management of Ecosystem Services — NOT CZA (2 incorrect). Capacity Development Support — lead institute: IIFM, Bhopal (3 correct).",
+      "subject": "Environment & Ecology",
+      "topic": "Environmental Governance & Legislation",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q43",
+      "questionText": "The Chancellor of the Federal Republic of Germany visited India in January, 2026. Which of the following is/are not correct in terms of outcomes of this visit ? 1. Signing of a Memorandum of Understanding between the All India Institute of Ayurveda and the University of Hamburg 2. Signing of a Memorandum of Understanding on Youth Hockey Development between Hockey India and the German Hockey Federation 3. Establishment of a bilateral dialogue mechanism on the Indo-Pacific 4. Opening of an Honorary Consul of Germany in Lucknow Select the answer using the code given below :",
+      "options": {
+        "a": "2 and 3",
+        "b": "1 and 4",
+        "c": "3 and 4",
+        "d": "1 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "During German Chancellor Olaf Scholz's January 2026 India visit: MoU on Youth Hockey Development (2) and bilateral Indo-Pacific dialogue mechanism (3) were actual outcomes. MoU between AIIA and University of Hamburg (1) and Opening of Honorary Consul in Lucknow (4) were NOT outcomes of this visit.",
+      "subject": "Current Affairs",
+      "topic": "International Relations & Treaties",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q44",
+      "questionText": "Which of the following statements about DHRUV64 is/are correct ? 1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India. 2. It is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "DHRUV64 is developed under the DIR-V (Design in India RISC-V) Programme (1 correct) and is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor developed by IIT Madras and CDAC (2 correct).",
+      "subject": "Science & Technology",
+      "topic": "Computer & Information Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q45",
+      "questionText": "The Bureau of Indian Standard (BIS) recently introduced a national standard to test and assess bomb disposal system. Which of the following statements with regard to this system is/are correct ? 1. The new standard is known as IS 19445 : 2025. 2. It will improve interoperability of equipment across agencies. 3. It was developed by TBRL, DRDO in collaboration with the 30th Central Scientific Research Institute, Russia. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "BIS introduced IS 19445:2025 as the national standard for bomb disposal systems (1 correct). The standard will improve interoperability across security agencies (2 correct). The statement about collaboration with Russia's 30th Central Scientific Research Institute is not established (3 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Defence Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q46",
+      "questionText": "'X', born in the UK, was conferred the Nobel Prize in 2025. He was a professor in an American university when this prize was announced. Identify 'X' :",
+      "options": {
+        "a": "Michel H. Devoret",
+        "b": "Richard Robson",
+        "c": "John Clarke",
+        "d": "Joel Mokyr"
+      },
+      "correctAnswer": "c",
+      "explanation": "Among the options, John Clarke is a British-born physicist who worked at University of California, Berkeley (an American university), known for his work on superconducting devices, matching the description of the 2025 Nobel laureate.",
+      "subject": "Current Affairs",
+      "topic": "Awards & Honours",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q47",
+      "questionText": "Which of the following statements with regard to the Grand Slam Tennis Tournaments is/are correct ? 1. The tournaments have a shared governance structure establishing the partnership among the four Grand Slam tournaments. 2. They are open for entry to all internationally ranked tennis players above the age of 14. 3. There is a limitation on the number of Wild Cards a player may receive to compete in a Grand Slam Tournament. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanation": "Grand Slam tournaments operate under a shared governance structure (Grand Slam Board) — (1 correct). Entry is open to internationally ranked players generally above age 14 (2 correct). There is NO specific career-wide limitation on total wild cards a player may receive across Grand Slams (3 incorrect).",
+      "subject": "Current Affairs",
+      "topic": "Tennis Grand Slams",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q48",
+      "questionText": "Which one of the following pairs of semiconductor plants in India and their locations is not correctly matched ?",
+      "options": {
+        "a": "CG Power and Industrial Solutions Pvt. Ltd. in partnership with Renesas Electronics and STARS Microelectronics : Gujarat",
+        "b": "Tata Semiconductor Assembly and Test Pvt. Ltd. : Assam",
+        "c": "HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+        "d": "SicSem Pvt. Ltd. : Odisha"
+      },
+      "correctAnswer": "c",
+      "explanation": "CG Power (Gujarat), TSAT (Assam/Morigaon), and SicSem (Odisha) are correctly matched. HCL-Foxconn joint venture is located in Uttar Pradesh (near Jewar/Noida), NOT Madhya Pradesh — hence (c) is the incorrectly matched pair.",
+      "subject": "Indian Economy",
+      "topic": "Infrastructure & Industry",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q49",
+      "questionText": "Which of the following statements with regard to India's indigenous new high resolution weather model, the Bharat Forecast System, is/are correct ? 1. Its objective is to generate forecasts at the Panchayats cluster level. 2. It was developed by IIT Delhi. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanation": "The Bharat Forecast System (BFS) aims to generate hyper-local weather forecasts at the Panchayat cluster level (1 correct). It was developed by the India Meteorological Department (IMD), NOT by IIT Delhi (2 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Computer & Information Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q50",
+      "questionText": "Consider the following statements with regard to the film Boong : 1. The film has recently won the British Academy of Film and Television Arts (BAFTA) Award in the Children's and Family Film category. 2. The film is directed by Lakshmipriya Devi. 3. This is the first Indian film to win a BAFTA award in the Children's and Family Film category. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "The film 'Boong' directed by Lakshmipriya Devi from Manipur won the BAFTA Award in the Children's and Family Film category, becoming the first Indian film to win a BAFTA in that category. All three statements are correct.",
+      "subject": "Current Affairs",
+      "topic": "Awards & Honours",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q51",
+      "questionText": "Which of the following statements regarding the features of blockchain technology are correct ? 1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration. 2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds. 3. Consortium blockchain is a blend of public and private blockchains allowing selective data access. 4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4 only",
+        "c": "1, 2 and 4",
+        "d": "1 and 4 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "Blockchain features: records visible without risk of alteration (1 correct); distributed copies sync across nodes in seconds (2 correct); Consortium blockchain is semi-decentralised governed by a group — 'blend of public and private' is an oversimplification/incorrect (3 incorrect); cryptographic hashing makes alteration computationally infeasible (4 correct). So 1, 2 and 4 are correct.",
+      "subject": "Science & Technology",
+      "topic": "Computer & Information Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q52",
+      "questionText": "An e-commerce revenue model where the seller has control over pricing but doesn't keep products in stock and instead transfers customer orders and shipment details to a third-party supplier, who then ships the goods directly to the customer, is called :",
+      "options": {
+        "a": "Dropshipping Model",
+        "b": "Affiliate Revenue Model",
+        "c": "Transaction Fee Revenue Model",
+        "d": "Agency Revenue Model"
+      },
+      "correctAnswer": "a",
+      "explanation": "In the Dropshipping Model, the seller controls pricing, holds no inventory, and transfers orders to a third-party supplier who ships directly to the customer — matching the description exactly.",
+      "subject": "Indian Economy",
+      "topic": "IT & Services Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q53",
+      "questionText": "Which one of the following correctly represents the three key sub-indices of the Financial Inclusion Index (FI-Index) of the Reserve Bank of India (RBI) ?",
+      "options": {
+        "a": "Credit access, Insurance depth, and Pension coverage",
+        "b": "Banking access, GDP contribution, and Financial literacy",
+        "c": "Access, Usage, and Quality",
+        "d": "Access, Affordability, and Transparency"
+      },
+      "correctAnswer": "c",
+      "explanation": "The RBI's Financial Inclusion Index (FI-Index), first published in 2021, comprises three key sub-indices: Access (availability of financial services), Usage (actual use), and Quality (quality of services and consumer protection).",
+      "subject": "Indian Economy",
+      "topic": "Digital Payments & Financial Inclusion",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q54",
+      "questionText": "Which one of the following best describes the key objective of India's Open Network for Digital Commerce (ONDC) initiative ?",
+      "options": {
+        "a": "To allow government control over all digital commerce transactions",
+        "b": "To replace private e-commerce players",
+        "c": "To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+        "d": "To mandate UPI-based payments for all online transactions"
+      },
+      "correctAnswer": "c",
+      "explanation": "ONDC (Open Network for Digital Commerce) is a digital public infrastructure initiative by DPIIT that enables interoperability across e-commerce platforms, breaking the dominance of closed ecosystems like Amazon and Flipkart — similar to how UPI enabled inter-bank payments.",
+      "subject": "Indian Economy",
+      "topic": "Digital Payments & Financial Inclusion",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q55",
+      "questionText": "Which one of the following statements about Unified Payments Interface (UPI) and Central Bank Digital Currency (Digital Rupee) is not correct ?",
+      "options": {
+        "a": "UPI is a real-time payment system but Digital Rupee is akin to sovereign paper currency.",
+        "b": "In case of UPI, settlement for end users happens instantly as the money gets immediately debited or credited but in case of Digital Rupee, there is no settlement as the wallet balance gets transferred to another wallet.",
+        "c": "UPI transactions are recorded by banks and reflected in bank statements but in case of Digital Rupee, no data is captured in bank statements as transactions are from one wallet to another.",
+        "d": "In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks."
+      },
+      "correctAnswer": "d",
+      "explanation": "For Digital Rupee (CBDC), the liability lies with the Reserve Bank of India (as it is a direct claim on the RBI, like physical currency) — NOT with users and their commercial banks. For UPI, liability is bank-to-bank. Hence statement (d) is incorrect.",
+      "subject": "Indian Economy",
+      "topic": "Digital Payments & Financial Inclusion",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q56",
+      "questionText": "Which of the following statements about Real-World Assets (RWA) Tokenization are correct ? 1. Tokenization is the process of turning real world assets into digital tokens using blockchain technology. 2. Tokenization of real world assets offers 24x7 access, promoting financial inclusion. 3. Tokenization of real world assets will allow the access to high growth investment opportunities for individuals in India. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1 and 3 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "RWA Tokenization: converts real-world assets into blockchain-based digital tokens (1 correct); enables 24x7 trading promoting financial inclusion (2 correct); democratises access to high-growth assets for retail investors in India (3 correct). All three statements are correct.",
+      "subject": "Indian Economy",
+      "topic": "Financial Markets & Capital Markets",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q57",
+      "questionText": "A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called :",
+      "options": {
+        "a": "Green Bond",
+        "b": "Social Bond",
+        "c": "Sustainability Bond",
+        "d": "Sovereign Bond"
+      },
+      "correctAnswer": "c",
+      "explanation": "A Sustainability Bond finances a combination of both environmental AND social projects. A Green Bond is purely environmental; a Social Bond is purely social; a Sovereign Bond is defined by the issuer (government), not the use of proceeds.",
+      "subject": "Indian Economy",
+      "topic": "Financial Markets & Capital Markets",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q58",
+      "questionText": "Which of the following statements about M1xchange's role in Micro, Small & Medium Enterprises (MSMEs) financing is/are correct ? 1. M1xchange provides collateral based loans to MSMEs. 2. M1xchange facilitates discounting of invoices and Bills of Exchange for MSMEs. 3. M1xchange functions as a credit rating agency for MSMEs. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "M1xchange is a TReDS (Trade Receivables Discounting System) platform licensed by RBI. Its sole function is facilitating discounting of trade receivables — invoices and Bills of Exchange — for MSMEs (2 correct). It does NOT provide collateral-based loans (1 wrong) or function as a credit rating agency (3 wrong).",
+      "subject": "Indian Economy",
+      "topic": "Banking & Financial Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q59",
+      "questionText": "Which one of the following best describes the Crowding Out Effect in the context of fiscal policy ?",
+      "options": {
+        "a": "A situation where private investment increases due to increased Government spending",
+        "b": "A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+        "c": "A situation where an increase in taxes leads to increased private sector investment",
+        "d": "A situation where Government spending has no impact on aggregate demand"
+      },
+      "correctAnswer": "b",
+      "explanation": "The Crowding Out Effect occurs when government borrowing increases demand for funds, pushing up interest rates, which raises the cost of borrowing for private businesses and thereby reduces private investment.",
+      "subject": "Indian Economy",
+      "topic": "Fiscal Policy & Budget",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q60",
+      "questionText": "Which of the following statements about Rare Earth Elements (REEs) and Critical Minerals is/are correct ? 1. Modern technological innovations including Artificial Intelligence, robotics and space exploration extensively utilise Rare Earth Elements (REEs). 2. China has the highest share in mining of REEs followed by India. 3. The Government of India launched the National Critical Mineral Mission (NCMM) in 2025 to establish a robust framework for self-reliance in the critical mineral sector. 4. Rare Earth Elements are a set of 13 metallic elements. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "3 only",
+        "c": "1, 3 and 4",
+        "d": "1, 2 and 4"
+      },
+      "correctAnswer": "a",
+      "explanation": "REEs are extensively used in AI hardware, robotics and space technology (1 correct). China leads in REE mining; the second-largest producer is NOT India (2 incorrect). National Critical Mineral Mission was launched in 2025 (3 correct). REEs are a set of 17 metallic elements (15 lanthanides + Sc + Y), NOT 13 (4 incorrect). Hence only 1 and 3 are correct.",
+      "subject": "Indian Economy",
+      "topic": "Infrastructure & Industry",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q61",
+      "questionText": "Which of the following statements about insurance in aviation sector is/are correct ? 1. Aviation Hull Insurance covers the physical aircraft, including the body, engine, and on-board equipment. 2. Under the Montreal Convention, adopted in 1999 by over 130 countries, including India, airlines are strictly liable to pay compensation to the family/nominee of every deceased passenger without requiring the family to prove fault. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Aviation Hull Insurance covers the physical aircraft including airframe, engines, and equipment (1 correct). Under Montreal Convention (1999), airlines face strict/absolute liability up to 100,000 SDR for passenger death without requiring proof of fault (2 correct).",
+      "subject": "Indian Economy",
+      "topic": "Banking & Financial Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q62",
+      "questionText": "Which of the following statements about Crowdfunding is/are correct ? 1. Crowdfunding is solicitation of funds (small amount) from multiple investors through a web-based platform or social networking site for a specific project. 2. Small and Medium Enterprises (SMEs) are able to raise funds at lower cost of capital without undergoing rigorous procedures. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "Crowdfunding solicits small amounts from many people via web platforms for specific projects (1 correct). It allows SMEs to raise funds at lower cost without rigorous collateral/procedural requirements of banks (2 correct).",
+      "subject": "Indian Economy",
+      "topic": "Financial Markets & Capital Markets",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q63",
+      "questionText": "With reference to different Committees in India, consider the following details : 1. R.N. Malhotra Committee | Comprehensive reforms of Insurance sector in India | Insurance Regulatory and Development Authority of India 2. L.C. Gupta Committee | Preparing a roadmap for the introduction of derivatives trading in India | Securities and Exchange Board of India 3. Urjit R. Patel Committee | Preparing a roadmap for reforming bank lending to the Housing sector | Reserve Bank of India 4. Y.H. Malegam Committee | Preparing a roadmap for reforms in Microfinance sector in India | Reserve Bank of India In which of the above rows are all the details correctly matched ?",
+      "options": {
+        "a": "2 only",
+        "b": "2 and 3",
+        "c": "1, 3 and 4",
+        "d": "2 and 4"
+      },
+      "correctAnswer": "d",
+      "explanation": "R.N. Malhotra Committee: correct objective but wrong organization — it was under Govt of India/Finance Ministry, not IRDA. L.C. Gupta Committee: correctly matched with SEBI and derivatives (2 correct). Urjit Patel Committee: was about monetary policy/inflation targeting, not housing lending (3 incorrect). Y.H. Malegam Committee: correctly matched with RBI and microfinance (4 correct). Rows 2 and 4 are correct.",
+      "subject": "Indian Economy",
+      "topic": "Banking & Financial Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q64",
+      "questionText": "Consider the following statements about the Non-Banking Financial Companies (NBFCs) in India : 1. NBFCs cannot accept demand deposits. 2. All the NBFCs operating in India have to be registered with the RBI. 3. NBFCs form part of the payment and settlement system and can issue cheque drawn on itself. 4. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation (DICGC) is not available to the depositors of deposit taking NBFCs. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 and 4",
+        "b": "1, 2 and 3",
+        "c": "4 only",
+        "d": "2, 3 and 4"
+      },
+      "correctAnswer": "a",
+      "explanation": "NBFCs cannot accept demand deposits (1 correct). Not ALL NBFCs need RBI registration — some are regulated by SEBI, NHB, etc. (2 incorrect). NBFCs are NOT part of the payment/settlement system and cannot issue cheques (3 incorrect). DICGC insurance does NOT cover NBFC deposits (4 correct). Correct statements: 1 and 4.",
+      "subject": "Indian Economy",
+      "topic": "Banking & Financial Sector",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q65",
+      "questionText": "Consider the following statements about Multidimensional Poverty Index (MPI) : 1. MPI is calculated using Alkire-Foster methodology. 2. MPI calculated by NITI Aayog has a total of twelve indicators. 3. Maternal Health and Bank Account are common indicators in the MPI of NITI Aayog and MPI of United Nations Development Programme (UNDP). Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 3",
+        "c": "1 and 3 only",
+        "d": "2 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "India's National MPI by NITI Aayog uses the Alkire-Foster methodology (1 correct) across 12 indicators (2 correct). 'Maternal Health' is in India's MPI but the UNDP Global MPI uses 10 different indicators; 'Bank Account' is specific to India's MPI, not common to both (3 incorrect).",
+      "subject": "Indian Economy",
+      "topic": "Human Development, Poverty & Employment Schemes",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q66",
+      "questionText": "Which of the following statements with regard to genetic medicine is/are correct ? 1. Genetic medicines correct/compensate for the faulty genes responsible for disease. 2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine. 3. Genetic medicines alter the entire DNA sequence. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Genetic medicines correct/compensate for faulty genes (1 correct). They are delivered via engineered viral vectors and lipid nanoparticles (2 correct). They do NOT alter the entire DNA sequence — gene editing (CRISPR) makes precise targeted edits only (3 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Biotechnology & Genetics",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q67",
+      "questionText": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct ? 1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability. 2. LLMs process data through mathematical optimization to minimise prediction errors. 3. LLMs produce unbiased outputs. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "LLMs predict the next token by assigning probability distributions and selecting the highest probability token (1 correct). They are trained via mathematical optimisation (gradient descent) minimising cross-entropy loss (2 correct). LLMs DO exhibit biases learned from training data — they do NOT produce unbiased outputs (3 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Computer & Information Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q68",
+      "questionText": "Which of the following statements with regard to stealth technology is/are correct ? 1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material. 2. Stealth objects can be detected using specific frequencies. 3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "Stealth objects have minimal radar cross-section and are coated with Radar Absorbing Materials (1 correct). They can be detected using specific low-frequency (VHF/UHF) radars, passive radar, etc. (2 correct). Stealth coatings ABSORB, not increase, scattering of electromagnetic radiation (3 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Defence Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q69",
+      "questionText": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct ? 1. They carry a beacon emitting red light pulses to facilitate underwater detection. 2. They record both the cockpit voice and flight data. 3. Their memory units are made using either stainless steel or titanium. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Black boxes carry an acoustic (ultrasonic) Underwater Locator Beacon — NOT red light pulses (1 incorrect). They record both cockpit voice (CVR) and flight data (FDR) (2 correct). Their crash-survivable memory units are housed in stainless steel or titanium casings (3 correct).",
+      "subject": "Science & Technology",
+      "topic": "Materials & Engineering",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q70",
+      "questionText": "Which of the following statements with regard to Green Hydrogen is/are correct ? 1. It is decarbonized hydrogen obtained from natural gas reforming combined with carbon capture and storage (CCS). 2. It is produced using electrolysis of water with electricity generated by renewable energy. 3. National Green Hydrogen Mission of India aims for abatement of nearly 50 MMT of annual greenhouse gas emissions by 2030. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Hydrogen from natural gas reforming + CCS is 'Blue Hydrogen', not Green (1 incorrect). Green Hydrogen is produced via electrolysis of water using renewable energy (2 correct). India's National Green Hydrogen Mission targets ~50 MMT annual GHG abatement by 2030 (3 correct).",
+      "subject": "Science & Technology",
+      "topic": "Energy & Environment",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q71",
+      "questionText": "Consider the following statements with regard to involvement of private entities in India's space programme : 1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities. 2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine. 3. Skyroot Aerospace has developed liquid fuel for GSLV. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "IN-SPACe is an autonomous single-window agency under Dept of Space to facilitate private space entities (1 correct). Agnikul Cosmos launched the world's first flight with a fully 3D-printed rocket engine (Agnibaan SOrTeD) in May 2024 (2 correct). Skyroot Aerospace developed solid-fuel Vikram rockets, NOT liquid fuel for ISRO's GSLV (3 incorrect).",
+      "subject": "Science & Technology",
+      "topic": "Space Technology & Astronomy",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q72",
+      "questionText": "Which of the following statements with regard to drone swarms is/are correct ? 1. They use Terahertz band of frequency to communicate with the command centre. 2. Individual drones in the swarm can communicate with other drones in the swarm. 3. GPS Spoofing is a commonly used technique to counter drone swarm attack. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Drone swarms use microwave/radio frequency bands (2.4 GHz, UHF etc.), not Terahertz, for communication (1 incorrect). Individual drones in a swarm communicate peer-to-peer via mesh networks — a key swarm intelligence feature (2 correct). GPS Spoofing — transmitting false GPS signals — is a recognised counter-drone/swarm technique (3 correct).",
+      "subject": "Science & Technology",
+      "topic": "Defence Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q73",
+      "questionText": "Which of the following statements with regard to GenomeIndia Project is/are correct ? 1. It is a part of the Human Genome Project. 2. The project is funded by the Department of Biotechnology (DBT), Government of India. 3. Its primary aim is to build a catalogue of genetic diversity of the Indian population. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "GenomeIndia is an independent Indian project, NOT part of the Human Genome Project (1 incorrect). It is funded by the Department of Biotechnology (DBT), Govt of India and coordinated by IISc Bangalore (2 correct). Its primary aim is to sequence 10,000 Indian genomes to catalogue India's genetic diversity (3 correct).",
+      "subject": "Science & Technology",
+      "topic": "Biotechnology & Genetics",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q74",
+      "questionText": "Which of the following statements with regard to the National Quantum Mission (NQM) is/are correct ? 1. It aims at developing intermediate-scale quantum computers with 50-1000 physical qubits. 2. Its implementation includes setting up of four Thematic Hubs (T-Hubs) in academic and national R&D institutes across India. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanation": "India's National Quantum Mission (approved April 2023) aims to develop quantum computers with 50–1000 physical qubits (1 correct) and establishes four Thematic Hubs (T-Hubs) at academic/R&D institutes across four domains (2 correct).",
+      "subject": "Science & Technology",
+      "topic": "Science & Technology Institutions",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q75",
+      "questionText": "Which of the following statements with regard to India's Deep Ocean Mission is/are correct ? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission. Select the answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "India's Deep Ocean Mission is under the Ministry of Earth Sciences (NOT Ministry of Ports) (1 incorrect). Matsya-6000 is designed to carry 3 persons to 6,000 m depth (2 correct). Samudrayaan is the manned deep ocean mission project within the Deep Ocean Mission (3 correct).",
+      "subject": "Science & Technology",
+      "topic": "Science & Technology Institutions",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q76",
+      "questionText": "Mr. X, a senior officer, was overseeing a critical vaccination programme during a pandemic. He found that a private service provider responsible for vaccine distribution was compromising on quality to make profits. Despite immense pressure to manage the issue due to vested interests, he raised his voice based on the principles of public administration which he learnt during various training programmes attended across his career. He reported the issue to the appropriate vigilance authority and halted the contract to ensure citizen welfare. Which one among the following principles of public administration was most strongly demonstrated by Mr. X's actions ?",
+      "options": {
+        "a": "Esprit de corps",
+        "b": "Equity",
+        "c": "Accountability",
+        "d": "Delegation"
+      },
+      "correctAnswer": "c",
+      "explanation": "Mr. X's actions — identifying a problem, reporting to appropriate authority despite pressure, and halting the contract — most strongly demonstrate Accountability: being answerable for decisions and actions in the public interest.",
+      "subject": "Indian Polity",
+      "topic": "Political Theory & Concepts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q77",
+      "questionText": "In a multi-ethnic district where both economic competition and historical grievances frequently led to community tensions, a flashpoint has arisen with a Government decision to allocate land for a waste management facility near a tribal hamlet, sparking protests by the tribal community, which claimed that the land was sacred and critical to their cultural identity. At the same time, urban residents and local industries supported the project, citing severe solid waste challenges and health concerns due to lack of a proper disposal site. As a responsible Government official, you are tasked with resolving the situation. Consider the following statements : 1. A successful conflict resolution process must begin with acknowledging the cultural concerns of the protesting tribal community before discussing technical alternatives. 2. The Government should move ahead with the project without delay to address urban health concerns, which outweigh the sentiments of a small group. 3. Creating a multi-stakeholder dialogue platform to build mutual understanding and help de-escalate tensions. 4. Conducting an independent Environmental and Social Impact Assessment (ESIA) and sharing findings transparently with both sides. Which of the statements given above would contribute to the resolution process ?",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "2, 3 and 4 only",
+        "c": "1 and 2 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "a",
+      "explanation": "Statements 1 (acknowledging tribal cultural concerns first), 3 (multi-stakeholder dialogue platform), and 4 (independent ESIA shared transparently) all contribute to resolution. Statement 2 (moving ahead without consultation) violates tribal rights (FPIC principle) and would escalate the conflict.",
+      "subject": "Indian Polity",
+      "topic": "Political Theory & Concepts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q78",
+      "questionText": "Ms. X is a mid-level civil service official working in the urban development department. Recently, she was involved in approving a contract for a public infrastructure project. During the approval process, she received confidential information indicating that one of the shortlisted contractors had a history of poor workmanship and allegations of corruption. The Head of the Department advised her not to disclose this information. However, Ms. X believed that withholding such information compromised transparency. What amongst the following should Ms. X do now ? 1. Immediately disclose the information to the project committee and the public 2. Recommend removing the contractor from the shortlist to protect the project's integrity 3. Propose a limited disclosure to an oversight committee, while keeping the information confidential from the public for the time being Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Immediately disclosing unverified information publicly (1) risks defamation and is procedurally incorrect. Recommending removal without due process (2) could be challenged legally. Proposing limited disclosure to an oversight committee (3) follows proper institutional channels while not suppressing critical information — the most appropriate action.",
+      "subject": "Indian Polity",
+      "topic": "Political Theory & Concepts",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q79",
+      "questionText": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion :",
+      "options": {
+        "a": "'X' is correct in the interpretation of law, including the view on non-inclusion of custom.",
+        "b": "The view of 'Y' that 'law' included custom is not correct.",
+        "c": "The views of both 'X' and 'Y' are correct.",
+        "d": "The view of only 'Y' is correct."
+      },
+      "correctAnswer": "d",
+      "explanation": "Article 13(3)(a) of the Constitution explicitly states that 'law' includes ordinances, orders, bye-laws, rules, regulations, notifications, custom or usages having the force of law. 'Y' correctly pointed out that customs are included, which 'X' missed. Only 'Y's' view is correct.",
+      "subject": "Indian Polity",
+      "topic": "Fundamental Rights",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q80",
+      "questionText": "Consider the following statements with reference to the Constitution of India : 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct ?",
+      "options": {
+        "a": "All three statements are correct.",
+        "b": "There is no correct statement.",
+        "c": "There are two correct statements that include statement 3.",
+        "d": "There is only one correct statement."
+      },
+      "correctAnswer": "b",
+      "explanation": "Article 393 names the Constitution; Article 395 repeals the Indian Independence Act 1947 and Government of India Act 1935; Article 394 specifies commencement (26 January 1950). All three statements claim these Articles don't exist — all three are incorrect. Hence 'there is no correct statement'.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional Framework & Development",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q81",
+      "questionText": "Which of the following statements with regard to the persons with disabilities in India is/are correct ? 1. The Rights of Persons with Disabilities Act, an Act passed by the Parliament of India in 2018, mandates reservation in education and employment, places a legal duty on Governments to ensure accessibility and non-discrimination. 2. The Sugamya Bharat Abhiyan focuses on achieving universal accessibility for Persons with Disabilities across three key domains - built infrastructure, transport systems and information and communication technology. 3. The National Divyangjan Finance and Development Corporation (NDFDC) is a public sector organisation set up by the Ministry of Corporate Affairs. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "1 only"
+      },
+      "correctAnswer": "b",
+      "explanation": "RPwD Act was passed in 2016 (not 2018) — statement 1 incorrect. Sugamya Bharat Abhiyan covers built infrastructure, transport systems, and ICT — statement 2 correct. NDFDC is under Ministry of Social Justice and Empowerment (not Ministry of Corporate Affairs) — statement 3 incorrect. Only statement 2 is correct.",
+      "subject": "Indian Polity",
+      "topic": "Social Justice & Vulnerable Sections",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q82",
+      "questionText": "Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India : 1. Provisions regarding the administration of the Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule of the Constitution of India. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution of India provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and the Scheduled Tribes. Which one of the following conclusions based on the above statements is correct ?",
+      "options": {
+        "a": "There are two correct statements, that include statement 2.",
+        "b": "There are two correct statements, that are statements 1 and 3.",
+        "c": "There is only one correct statement.",
+        "d": "All three statements are correct."
+      },
+      "correctAnswer": "a",
+      "explanation": "Tribal Areas of Assam, Meghalaya, Tripura and Mizoram are under the Sixth Schedule, not Fifth (1 incorrect). Certain tribes in NE India are exempt from income tax on certain incomes under Section 10(26) of Income Tax Act (2 correct). Article 243D mandates reservation of seats in Panchayats for SC/ST women (3 correct). Two correct statements including statement 2.",
+      "subject": "Indian Polity",
+      "topic": "Social Justice & Vulnerable Sections",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q83",
+      "questionText": "Consider the following statements in respect of questions asked by the Members in the Parliament of India : 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct ?",
+      "options": {
+        "a": "All the three statements are correct.",
+        "b": "There are two correct statements, that include statement 2.",
+        "c": "There is only one correct statement.",
+        "d": "There is no correct statement."
+      },
+      "correctAnswer": "c",
+      "explanation": "Starred questions require oral answers (with supplementary questions). Unstarred questions get written answers (statement 1 wrong — it's starred, not unstarred). Starred questions get oral answers (statement 2 wrong — it says starred gets written, reversed). No supplementary questions can be asked on unstarred questions (statement 3 correct). Only one correct statement.",
+      "subject": "Indian Polity",
+      "topic": "Parliament & State Legislatures",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q84",
+      "questionText": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India : 1. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct ?",
+      "options": {
+        "a": "There are four correct statements.",
+        "b": "There is only one correct statement, that is statement 2.",
+        "c": "There are two correct statements, that include statement 1.",
+        "d": "There is no correct statement."
+      },
+      "correctAnswer": "d",
+      "explanation": "Chairperson is appointed by the Speaker of Lok Sabha, not Chairman of Rajya Sabha (1 wrong). Composition is 20 from Lok Sabha + 10 from Rajya Sabha — not the reverse (2 wrong). NO minister (not even Social Justice minister) can be a member (3 wrong). Members are elected for ONE year, not two (4 wrong). No correct statement.",
+      "subject": "Indian Polity",
+      "topic": "Parliament & State Legislatures",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q85",
+      "questionText": "Consider the following statements about Mission Sudarshan Chakra of India : 1. It aims to enhance India's air defence, ballistic missile defence and aerial offensive capabilities. 2. This Mission is being designed to enhance rapid, precise, and powerful defence responses, reinforcing India's strategic autonomy. 3. One of the aims of this Mission is to cover all public places of India by an expanded nationwide security shield by 2035. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "Mission Sudarshan Chakra aims to enhance India's air defence, ballistic missile defence and aerial offensive capabilities (1 correct); provides rapid, precise, powerful responses reinforcing strategic autonomy (2 correct); aims to cover all public places with a nationwide security shield by 2035 (3 correct). All three correct.",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts & Security",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q86",
+      "questionText": "Consider the following statements about river bridges connecting India with neighbouring countries : 1. Maitri Setu, built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh. 2. Jhulaghat suspension bridge connects India with Myanmar. 3. Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "1 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Maitri Setu connects Sabroom (Tripura, India) with Ramgarh (Bangladesh) — the question reverses the sides (1 incorrect). Jhulaghat bridge connects India with Nepal (Uttarakhand-Nepal), NOT Myanmar (2 incorrect). Mechi bridge connects Panitanki (West Bengal, India) with Kakarvitta (Nepal) — (3 correct). Only statement 3 is correct.",
+      "subject": "Geography",
+      "topic": "Transport & Infrastructure Geography",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q87",
+      "questionText": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct ? 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer-in-Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2 and 3 only",
+        "c": "1 only",
+        "d": "2 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "Under BNSS 2023, Zero FIR covers cognizable offences only, not non-cognizable (1 has error — includes non-cognizable). The officer-in-charge may, with competent authority's permission, initiate a preliminary enquiry (2 correct). Electronic filing of Zero FIR is an option, not obligatory (3 incorrect). Only statement 2 is correct.",
+      "subject": "Indian Polity",
+      "topic": "Judiciary",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q88",
+      "questionText": "With reference to the organisations under the Government of India, consider the following details : 1. Central Economic Intelligence Bureau (CEIB) | To coordinate between various law enforcement agencies | Ministry of Home Affairs 2. Serious Fraud Investigation Office (SFIO) | To investigate complex corporate frauds | Ministry of Finance 3. Central Bureau of Investigation (CBI) | To preserve values in public life and ensure the health of the national economy | Ministry of Personnel, Public Grievances and Pension In how many of the above rows are the given details correctly matched ?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanation": "CEIB is under Ministry of Finance (Dept of Revenue), not MHA (Row 1 wrong). SFIO is under Ministry of Corporate Affairs, not Ministry of Finance (Row 2 wrong). CBI is under Ministry of Personnel, Public Grievances and Pensions — its stated mission is to preserve values in public life and ensure health of the national economy (Row 3 correct). Only 1 row is correctly matched.",
+      "subject": "Indian Polity",
+      "topic": "Constitutional & Statutory Bodies",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q89",
+      "questionText": "Which of the following international conventions have not been ratified by India ? 1. Employment Policy Convention 2. Abolition of Forced Labour Convention 3. International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families 4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War 5. Convention on Reduction of Statelessness Select the answer using the code given below :",
+      "options": {
+        "a": "2 and 4",
+        "b": "1 and 2",
+        "c": "3 and 4 only",
+        "d": "3, 4 and 5"
+      },
+      "correctAnswer": "a",
+      "explanation": "This question was officially cancelled by UPSC. Marks are awarded to all candidates regardless of the answer selected.",
+      "subject": "Current Affairs",
+      "topic": "International Relations & Treaties",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q90",
+      "questionText": "Consider the following statements with respect to the AI Impact Summit, 2026 held in New Delhi : 1. The Summit's intellectual framework was based on three foundational Sutras : People, Planning, and Progress. 2. The Preamble of the Summit stresses Democratising AI Resources, which acknowledges the Charter for Democratic Diffusion of AI as a binding framework. 3. The New Delhi Declaration on AI Impact was structured around seven Chakras (Pillars), which included Access for Social Empowerment, AI for Science, and Secure and Trusted AI. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanation": "The New Delhi Declaration on AI Impact was structured around seven Chakras (Pillars) including Access for Social Empowerment, AI for Science, and Secure and Trusted AI (3 correct). The 'three foundational Sutras' in statement 1 are not correctly identified. The Charter for Democratic Diffusion of AI is non-binding, not binding (2 incorrect). Only statement 3 is correct.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q91",
+      "questionText": "Which of the following connectivity projects is/are a part of cooperation between India and the ASEAN member countries ? 1. Kaladan Multi-Modal Transit Transport Project 2. IMT Trilateral Highway 3. Agartala-Akhaura Rail Line Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "1 and 3",
+        "d": "2 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "Kaladan Multi-Modal Transit Transport Project connects India with Myanmar (ASEAN member) — part of India-ASEAN connectivity (1 correct). IMT Trilateral Highway connects India-Myanmar-Thailand (both ASEAN) (2 correct). Agartala-Akhaura Rail Line connects India with Bangladesh — Bangladesh is NOT an ASEAN member (3 not ASEAN). Correct: 1 and 2.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q92",
+      "questionText": "Match List I with List II : List I (Project Supported by India) A. Mangdechhu Hydroelectric Project B. Restoration of Stor Palace C. District Hospital at Dickoya D. Institute of Security and Law Enforcement Studies List II (Country) 1. Maldives 2. Afghanistan 3. Bhutan 4. Sri Lanka Code : A B C D",
+      "options": {
+        "a": "1 4 2 3",
+        "b": "3 2 4 1",
+        "c": "3 4 2 1",
+        "d": "1 2 4 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "India-supported projects: Mangdechhu Hydroelectric — Bhutan (A-3); Restoration of Stor Palace — Afghanistan (B-2); District Hospital at Dickoya — Sri Lanka (C-4); Institute of Security and Law Enforcement Studies (ISLES) — Maldives (D-1). A-3, B-2, C-4, D-1.",
+      "subject": "Current Affairs",
+      "topic": "International Relations & Treaties",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q93",
+      "questionText": "Which of the following items of defence hardware is/are manufactured in India ? 1. Su-30 MKI Fighter Jets 2. T-90 MK-III Tanks 3. Akula Class Submarine Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 3",
+        "c": "1 only",
+        "d": "2 only"
+      },
+      "correctAnswer": "a",
+      "explanation": "Su-30 MKI Fighter Jets are manufactured by HAL in Nashik under licence from Russia (1 correct). T-90 tanks (Bhishma) are manufactured by Heavy Vehicles Factory, Avadi under technology transfer (2 correct). Akula-class submarines are Russian-built; India leased them — NOT manufactured in India (3 incorrect). Correct: 1 and 2.",
+      "subject": "Science & Technology",
+      "topic": "Defence Technology",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q94",
+      "questionText": "Consider the following statements about platforms for multilateral co-operation : 1. The Colombo Process is a regional consultative process in which member states take binding decisions by consensus. 2. The Abu Dhabi Dialogue is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility. 3. The Global Forum for Migration and Development, created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "2 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "Colombo Process decisions are non-binding/consultative — NOT binding (1 incorrect). Abu Dhabi Dialogue is a voluntary, non-binding consultative process among Asian labour origin and destination countries (2 correct). GFMD, proposed by Kofi Annan, is a voluntary, non-binding, state-led informal forum (3 correct). Correct: 2 and 3.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q95",
+      "questionText": "Consider the following UN organisations/agencies : 1. World Food Programme 2. United Nations Children's Fund 3. United Nations High Commissioner for Refugees 4. International Labour Organisation How many of the above has/have been awarded the Nobel Prize twice ?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correctAnswer": "a",
+      "explanation": "UNHCR has won the Nobel Peace Prize twice: 1954 and 1981. WFP won once (2020). UNICEF won once (1965). ILO won once (1969). Only 1 of the listed organisations (UNHCR) has won twice.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q96",
+      "questionText": "Match List I with List II : List I (UN Peacekeeping Operation) A. UNMIL B. MINURCAT C. MINUSTAH D. UNMISET List II (Period of Operation) 1. 2007-2010 2. 2002-2005 3. 2003-2018 4. 2004-2017 Code : A B C D",
+      "options": {
+        "a": "3 4 1 2",
+        "b": "3 1 4 2",
+        "c": "2 1 4 3",
+        "d": "2 4 1 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "UN Peacekeeping Operations: UNMIL (Liberia) — 2003–2018 (A-3); MINURCAT (Central African Republic & Chad) — 2007–2010 (B-1); MINUSTAH (Haiti) — 2004–2017 (C-4); UNMISET (East Timor) — 2002–2005 (D-2). A-3, B-1, C-4, D-2.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q97",
+      "questionText": "Match List I with List II : List I (BIMSTEC Centre / Establishment) A. BIMSTEC Cultural Industries Observatory B. BIMSTEC Energy Centre C. BIMSTEC Centre for Weather and Climate D. BIMSTEC Technology Transfer Facility List II (Location) 1. NOIDA 2. Bengaluru 3. Colombo 4. Thimphu Code : A B C D",
+      "options": {
+        "a": "3 2 1 4",
+        "b": "3 1 2 4",
+        "c": "4 2 1 3",
+        "d": "4 1 2 3"
+      },
+      "correctAnswer": "c",
+      "explanation": "BIMSTEC Centres: Cultural Industries Observatory — Thimphu, Bhutan (A-4); Energy Centre — Bengaluru, India (B-2); Centre for Weather and Climate — NOIDA, India (C-1); Technology Transfer Facility — Colombo, Sri Lanka (D-3). A-4, B-2, C-1, D-3.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q98",
+      "questionText": "Which one of the following pairs is not correctly matched ? (Indian Army Corps) | (Headquarters)",
+      "options": {
+        "a": "3 Corps : Dimapur",
+        "b": "4 Corps : Tezpur",
+        "c": "14 Corps : Leh",
+        "d": "33 Corps : Srinagar"
+      },
+      "correctAnswer": "d",
+      "explanation": "Indian Army Corps HQs: 3 Corps — Dimapur (correct); 4 Corps — Tezpur (correct); 14 Corps — Leh (correct); 33 Corps — Sukna, West Bengal (NOT Srinagar; Srinagar is HQ of 15 Corps/Chinar Corps). Pair (d) is incorrectly matched.",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts & Security",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q99",
+      "questionText": "Which of the following statements with respect to the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) is/are correct ? 1. The period of its implementation is 1st April, 2021 to 31st March, 2026. 2. The key objective of the Revamped RGSA is to develop the governance capabilities of the Panchayati Raj Institutions to deliver on the Sustainable Development Goals. 3. The share of the Central funding for the Revamped RGSA is 100% for all States and Union Territories. Select the answer using the code given below :",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanation": "Revamped RGSA implementation period is 1 April 2022 to 31 March 2026 (not 2021 — statement 1 incorrect). Its key objective is to develop Panchayati Raj Institutions' governance capabilities for SDGs (2 correct). Funding is 60:40 (Centre:State) for general states, 90:10 for NE/hilly states — not 100% central for all (3 incorrect). Only statement 2 is correct.",
+      "subject": "Indian Polity",
+      "topic": "Local Government & Panchayati Raj",
+      "marks": 2
+    },
+    {
+      "id": "upsc-2026-q100",
+      "questionText": "Which of the following countries are members of the European Union ? 1. Belarus 2. Poland 3. Germany 4. Switzerland Select the answer using the code given below :",
+      "options": {
+        "a": "1, 2 and 4",
+        "b": "1 and 4 only",
+        "c": "2 and 3",
+        "d": "2 and 4 only"
+      },
+      "correctAnswer": "c",
+      "explanation": "EU members among options: Belarus — NOT EU member; Poland — EU member since 2004 (2 correct); Germany — founding EU member (3 correct); Switzerland — NOT EU member (EFTA member with bilateral agreements). Only Poland and Germany are EU members.",
+      "subject": "Current Affairs",
+      "topic": "International Organisations & Groupings",
+      "marks": 2
+    }
+  ]
+}
